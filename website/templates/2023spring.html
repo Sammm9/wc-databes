@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Home-2023 Spring{% endblock %} 
+{% block content%}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>2023 Spring</title>
+  </head>
+  <body>
+    <h1>2023 Spring Classes</h1>
+    <style>
+      body {
+        background-image: url("static/slc.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+      }
+      #options_list li {
+        color: black;
+        font-weight: bold;
+      }
+    </style>
+    <div>
+      <input type="text" id="selected_option" size="50" oninput="filterOptions()" placeholder="Search for a class ex: COSC">
+      <br><br>
+      <div id="options_container" style="width: 1000px; height: 500px; overflow-y: scroll;">
+        <ul id="options_list">
+          {% for option in options %}
+          <li>{{ option }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <script>
+      var options_list = document.getElementById("options_list");
+      var options = options_list.getElementsByTagName("li");
+
+      function filterOptions() {
+        var input = document.getElementById("selected_option").value.toLowerCase();
+        for (var i = 0; i < options.length; i++) {
+          var option = options[i].textContent.toLowerCase();
+          if (option.indexOf(input) !== -1) {
+            options[i].style.display = "";
+          } else {
+            options[i].style.display = "none";
+          }
+        }
+      }
+    </script>
+  </body>
+</html>
+{% endblock %}
+
+

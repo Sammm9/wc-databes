@@ -1,0 +1,123 @@
+{% extends "base.html" %} {% block title %}Home-WC DATABASE{% endblock %} 
+{% block navbar %}
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-custom">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link navbar-text" id="home" href="/">Home</a>
+        {% if current_user.is_authenticated %}
+          <a class="nav-item nav-link navbar-text" id="profile" href='/student/{{ current_user.id }}'>Profile</a>
+          <a class="nav-item nav-link navbar-text" id="logout" href="/logout">Logout</a>
+        {% else %}
+          <a class="nav-item nav-link navbar-text"id="login" href="/login">Login</a>
+          <a class="nav-item nav-link navbar-text" id="signUp" href="/sign-up">Sign Up</a>
+        {% endif %}
+      </div>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbar"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </nav>
+  </body>
+{% endblock %}
+
+
+{%block content%}
+<body>
+  <style>
+    .carousel-item {
+      height: 39.27rem;
+      background: #4f2683;
+      color: white;
+      position: relative;
+      background-position: center;
+      background-size: cover;
+    }
+    .container {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding-bottom: 50px;
+    }
+    .overlay-image{
+      display: block;
+      height: auto;
+      max-width: 100%;
+      line-height: 1;
+      margin:auto;
+      width: 100%;;
+    }
+  </style>
+
+  <div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="overlay-image">
+          <img src="{{url_for('static', filename='WCpic1.jpg')}}" width="100%">
+        </div>
+        <div class="container">
+          <h1>WC DATABASE</h1>
+          <a
+            class="btn btn-primary btn-lg nav-item nav-link"
+            id="login"
+            href="/login"
+            >Login</a
+          >
+        </div>
+        <!--<img class="d-block w-100" src="..." alt="First slide" />-->
+      </div>
+      <div class="carousel-item">
+        <div class="overlay-image">
+          <img src="{{url_for('static', filename='WCpic2.jpg')}}" width="100%">
+        </div>
+        <div class="container">
+        <a
+            class="btn btn-lg btn-primary nav-item nav-link"
+            id="sign-up"
+            href="/sign-up"
+            >sign-up</a
+          >
+        </div>
+       <!-- <img class="d-block w-100" src="..." alt="Second slide" />-->
+      </div>
+      <div class="carousel-item">
+        <div class="overlay-image">
+          <img src="{{url_for('static', filename='ft.jpg')}}" width="100%">
+        </div>
+        <div class="container">
+        <a
+        class="btn btn-lg btn-primary nav-item nav-link"
+        id="sign-up"
+        href="/2023"
+        >2023 classes</a
+        >
+        </div>
+
+        <!--<img class="d-block w-100" src="..." alt="Third slide" />-->
+      </div>
+    </div>
+    <a
+      class="carousel-control-prev"
+      href="#carouselExampleControls"
+      role="button"
+      data-slide="prev"
+    >
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a
+      class="carousel-control-next"
+      href="#carouselExampleControls"
+      role="button"
+      data-slide="next"
+    >
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</body>
+{% endblock %}

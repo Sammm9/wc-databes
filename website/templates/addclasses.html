@@ -1,0 +1,129 @@
+{% extends "base.html" %} {% block title %}Home-WC DATABASE{% endblock %}
+{% block navbar %}
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-custom">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link navbar-text" id="home" href="/">Home</a>
+      <a class="nav-item nav-link navbar-text" id="profile" href='/student/{{ current_user.id }}'>Profile</a>
+      <a class="nav-item nav-link navbar-text" id="logout" href="/logout">Logout</a>
+
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </nav>
+  {% endblock %}
+
+  {% block content %}
+
+  <table id="schedule-table" border="1">
+    <thead>
+      <tr>
+        <th>Time / Day</th>
+        {% for day in days %}
+        <th>{{ day }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for time_slot in time_slots %}
+      <tr>
+        <td>{{ time_slot }}</td>
+        {% for day in days %}
+        <td id="{{ day }}-{{ time_slot }}">
+          {% for user_class_schedule in user_class_schedules %}
+          {% if user_class_schedule.day == day and user_class_schedule.time_slot == time_slot %}
+          {{ user_class_schedule.class_name }}
+          {% endif %}
+          {% endfor %}
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
+  
+
+  <title>Add Classes</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+
+  <body>
+    <h1>Add Classes</h1>
+    <form method="POST" action="{{ url_for('auth.add', user_id=user.id) }}">
+      <label for="class-selector">Class Selector:</label>
+      <input type="text" id="class-selector">
+      <select id="class-options">
+        {% for option in options %}
+        <option value="{{ option[0] }}-{{ option[1] }}-{{ option[2] }}">{{ option[0] }} - {{ option[1] }} - {{ option[2]
+          }}</option>
+        {% endfor %}
+      </select>
+      <button id="save-button">Save</button>
+    </form>
+    <div id="saved-options"></div>
+    <button onclick="openSavedOptionsWindow()">View Saved Options</button>
+    <script>
+      function filterOptions(inputText) {
+        $.ajax({
+          url: "{{ url_for('auth.add', user_id=user.id) }}",
+          type: "POST",
+          contentType: "application/json",
+          data: JSON.stringify({ 'input_text': inputText }),
+          success: function (data) {
+            var filteredOptions = JSON.parse(data);
+            var select = document.getElementById("class-options");
+            select.innerHTML = ""; // Remove existing options
+            for (var i = 0; i < filteredOptions.length; i++) {
+              var optionVal = filteredOptions[i];
+              var optionText = optionVal.replace(/-/g, " ");
+              select.options.add(new Option(optionText, optionVal));
+            }
+          }
+        });
+      }
+
+      function openSavedOptionsWindow() {
+        $.ajax({
+          url: "{{ url_for('auth.add', user_id=user.id) }}",
+          type: "GET",
+          dataType: "json",
+          success: function (data) {
+            var savedOptions = data.saved_options;
+            var savedOptionsDiv = document.getElementById("saved-options");
+            savedOptionsDiv.innerHTML = "<h1>Saved Options</h1>";
+            for (var i = 0; i < savedOptions.length; i++) {
+              var option = savedOptions[i];
+              savedOptionsDiv.innerHTML += "<p>" + option + "</p>";
+            }
+          }
+        });
+      }
+
+      $(document).ready(function () {
+        $('#class-selector').on('keyup', function () {
+          var inputText = $(this).val().toLowerCase();
+          filterOptions(inputText);
+        });
+
+        $('#save-button').click(function (event) {
+          event.preventDefault();
+          var selectedOption = $('#class-options').val();
+          $.ajax({
+            url: "{{ url_for('auth.add', user_id=user.id) }}",
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify({ 'selected_option': selectedOption }),
+            success: function (data) {
+              console.log(data);
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+
+  </html>
+  {% endblock %}

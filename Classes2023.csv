@@ -1,0 +1,488 @@
+CRN,Crse,Sect,Title,Course,Cr,GM,Type,Days,Time,Loc,P-Term,Dates,Instructor,Fee,Max,Enrl,AVL,XL-Max,XL-Enrl,Wait,Rsrvd,Status,Lib Ed,Perm
+22273,AFBL 177,01 ,Franco-African Cinema & Literature,AFBL 177 Franco-African Cinema & Literature,3,L,CLAS ,M,13:30-16:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",-,25 ,10 ,15 ,31 ,27 ,0,-,Open ,-,-
+22441,AFBL 257,1 ,Black and Womanist Theology,AFBL 257 Black and Womanist Theology,3,L,CLAS ,TR,13:30-14:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, R  ",-,20 ,4 ,16 ,20 ,6 ,0,-,Open ,CUL4,-
+22473,AFBL 283,1 ,African Diaspora and Liberation Movements,AFBL 283 African Diaspora and Liberation Movements,3,L,CLAS ,TR,13:30-14:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Ortega, J  ",-,25 ,23 ,2 ,-,-,-,-,Open ,CUL1,-
+22491,AFBL 290,01 ,Affirmative Action Around the World,AFBL 290 Affirmative Action Around the World,3,L,CLAS ,TR,11:00-12:20  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Gold, G  ",-,25 ,23 ,2 ,-,-,0,-,Open ,CUL6,-
+22503,AFBL 290,1 ,Indigenous & African Peoples Colonial Latin America,AFBL 290 Indigenous & African Peoples Colonial Latin America,3,L,CLAS ,TR,09:30-10:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Ortega, J  ",-,25 ,23 ,2 ,-,-,0,-,Open ,CUL1,-
+22442,AFBL 300,1 ,"Intersections: Race, Class, and Gender","AFBL 300 Intersections: Race, Class, and Gender",3,L,CLAS ,MW,15:00-16:20  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,20 ,3 ,17 ,20 ,19 ,0,-,Open ,COM2,-
+22272,AFBL 371,01 ,Political Economy of Developme,AFBL 371 Political Economy of Developme,3,L,CLAS ,TR,13:30-14:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Bezares Calderon, A  ",-,25 ,1 ,24 ,25 ,10 ,0,-,Open ,-,-
+22449,ANTH 210,01 ,Cultural Anthropology,ANTH 210 Cultural Anthropology,3,L,CLAS ,TR,15:00-16:20  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Smith, G  ",-,25 ,18 ,7 ,-,-,0,-,Open ,CUL6,-
+21634,ANTH 211,01 ,Topics in the Anthropology of Asia,ANTH 211 Topics in the Anthropology of Asia,3,L,CLAS ,TR,13:30-14:50  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Vechayiem, D  ",-,26 ,25 ,1 ,-,-,0,-,Open ,CUL2,-
+22329,ANTH 250,01 ,The Art of Ethnography,ANTH 250 The Art of Ethnography,3,L,CLAS ,TR,13:30-14:50  ,PL 201 ,Full Term,01/11/2023-04/24/2023 ,"Smith, G  ",-,15 ,3 ,12 ,-,-,0,-,Open ,-,-
+22058,ANTH 290,01 ,The Latinos of Asia,ANTH 290 The Latinos of Asia,3,L,CLAS ,TR,15:00-16:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Vechayiem, D  ",-,25 ,6 ,19 ,-,-,0,-,Open ,-,-
+22330,ANTH 290,02 ,Technology and Culture,ANTH 290 Technology and Culture,3,L,CLAS ,TR,09:30-10:50  ,MB 204 ,Full Term,01/11/2023-04/23/2023 ,"Smith, G  ",-,25 ,14 ,11 ,-,-,0,-,Open ,-,-
+20958,ANTH 310,01 ,Theory in Anthropology,ANTH 310 Theory in Anthropology,3,L,CLAS ,MW,12:00-13:20  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Kakaliouras, A  ",-,15 ,0 ,15 ,-,-,0,-,Open ,-,IN 
+21637,ANTH 327,01 ,Sex & Gender in Anthropology,ANTH 327 Sex & Gender in Anthropology,3,L,CLAS ,MW,15:00-16:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Kakaliouras, A  ",-,20 ,15 ,5 ,20 ,18 ,0,-,Open ,CUL6,-
+22289,ANTH 390,01 ,Anthropology of Memory Communities,ANTH 390 Anthropology of Memory Communities,3,L,CLAS ,TR,11:00-12:20  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Smith, G  ",-,25 ,4 ,21 ,-,-,0,-,Open ,-,-
+22126,ANTH 408,01 ,Senior Seminar B,ANTH 408 Senior Seminar B,3,L,CLAS ,TR,09:30-10:50  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Overmyer-Velazquez, R  ",-,10 ,4 ,6 ,11 ,11 ,-,-,XL-Closed ,COM4,IN 
+21276,APA 007,01 ,Self Defense for Women,APA 007 Self Defense for Women,1,P,CLAS ,TR,15:00-15:50  ,-,Full Term,01/11/2023-04/23/2023 ,"Camacho, D  ",-,25 ,14 ,11 ,-,-,0,-,Open ,-,-
+21277,APA 010,01 ,Weight Training,APA 010 Weight Training,1,P,CLAS ,TR,09:30-10:20  ,-,Full Term,01/11/2023-04/23/2023 ,"Heal, M  ",-,16 ,16 ,0 ,-,-,1,-,Closed ,-,-
+21279,APA 020,01 ,Pickleball,APA 020 Pickleball,1,P,CLAS ,MW,10:00-10:50  ,-,Full Term,01/11/2023-04/23/2023 ,"Madrigal, A  ",-,24 ,24 ,0 ,-,-,-,-,Closed ,-,-
+20579,ART 101,01 ,Introduction to Art 3-D,ART 101 Introduction to Art 3-D,3,L,CLAS ,TR,09:30-12:20  ,WG 100N ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",90,19 ,18 ,1 ,-,-,-,-,Open ,COM3,-
+22331,ART 104,1 ,"Game Art I: 3-D Modeling for Animation, Game Design, and Motion Graphics","ART 104 Game Art I: 3-D Modeling for Animation, Game Design, and Motion Graphics",3,L,CLAS ,MW,13:30-16:20  ,LIB G004 ,Full Term,01/11/2023-04/24/2023 ,"Jauregui, D  ",100,18 ,18 ,0 ,-,-,0,-,Closed ,COM3,-
+22332,ART 120,1 ,Graphic Design I: Digital Software Literacy,ART 120 Graphic Design I: Digital Software Literacy,3,L,CLAS ,TR,09:30-12:20  ,LIB G004 ,Full Term,01/11/2023-04/24/2023 ,"Herrick, J  ",100,18 ,13 ,5 ,-,-,0,-,Open ,-,-
+22334,ART 190,02 ,"Whatcha Mean, What's a Zine?","ART 190 Whatcha Mean, What's a Zine?",3,L,CLAS ,R,18:00-20:50  ,WG 100W ,Full Term,01/11/2023-04/24/2023 ,"Albert, B  ",75,18 ,17 ,1 ,-,-,-,-,Open ,COM3,-
+22052,ART 200,01 ,Digital Photography I,ART 200 Digital Photography I,3,L,CLAS ,MW,10:00-12:50  ,WG 011 ,Full Term,01/11/2023-04/24/2023 ,"Riboli, L  ",100,15 ,14 ,1 ,-,-,0,-,Open ,COM3,-
+22501,ART 201,1 ,Animation I,ART 201 Animation I,3,L,CLAS ,TR,13:30-16:20  ,LIB G004 ,Full Term,01/11/2023-04/24/2023 ,"Caterini, D  ",100,18 ,16 ,2 ,-,-,0,-,Open ,COM3,-
+22335,ART 206,1 ,Western Art: 15th through 20th Centuries,ART 206 Western Art: 15th through 20th Centuries,3,L,CLAS ,MW,12:00-13:20  ,HV 205 ,Full Term,01/11/2023-04/23/2023 ,"Radisich, P  ",-,19 ,18 ,1 ,-,-,0,-,Open ,CUL5,-
+21640,ART 208,01 ,Intro to Visual Culture/Media,ART 208 Intro to Visual Culture/Media,3,L,CLAS ,TR,11:00-12:20  ,HV 205 ,Full Term,01/11/2023-04/24/2023 ,"Albers, K  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,CUL4,-
+20010,ART 210,02 ,Drawing I,ART 210 Drawing I,3,L,CLAS ,MW,18:00-20:50  ,WG 201 ,Full Term,01/11/2023-04/24/2023 ,"Patrick, I  ",50,18 ,18 ,0 ,-,-,0,-,Closed ,COM3,-
+20011,ART 210,01 ,Drawing I,ART 210 Drawing I,3,L,CLAS ,MW,13:30-16:20  ,WG 201 ,Full Term,01/11/2023-04/24/2023 ,"Huey, E  ",50,18 ,18 ,0 ,-,-,0,-,Closed ,COM3,-
+22514,ART 212,1 ,"Gender Studies in Photography, Art, and Visual Culture","ART 212 Gender Studies in Photography, Art, and Visual Culture",3,L,CLAS ,TR,13:30-14:50  ,HV 202 ,Full Term,01/11/2023-04/24/2023 ,"Albers, K  ",-,16 ,16 ,0 ,-,-,-,-,Closed ,CUL4,-
+22336,ART 222,1 ,Painting I,ART 222 Painting I,3,L,CLAS ,MW,10:00-12:50  ,WG 201 ,Full Term,01/11/2023-04/24/2023 ,"Herrick, J  ",85,17 ,17 ,0 ,-,-,0,-,Closed ,COM3,-
+22337,ART 232,01 ,Ceramics I,ART 232 Ceramics I,3,L,CLAS ,MW,10:00-12:50  ,WG 100S ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",75,20 ,18 ,2 ,18 ,20 ,0,-,XL-Closed ,COM3,-
+20580,ART 252,01 ,Sculpture I,ART 252 Sculpture I,3,L,CLAS ,TR,13:30-16:20  ,WG 100N ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",90,18 ,13 ,5 ,18 ,19 ,0,-,XL-Closed ,COM3,-
+22471,ART 306,1 ,Introduction to Web Design,ART 306 Introduction to Web Design,3,L,CLAS ,MW,10:00-12:50  ,LIB G004 ,Full Term,01/11/2023-04/24/2023 ,"Caterini, D  ",100,18 ,14 ,4 ,-,-,0,-,Open ,COM3,-
+22338,ART 311,01 ,Special Projects in Drawing,ART 311 Special Projects in Drawing,3,L,CLAS ,MW,10:00-12:50  ,WG 100W ,Full Term,01/11/2023-04/24/2023 ,"Herrick, J  ",30,18 ,1 ,17 ,18 ,4 ,0,-,Open ,-,-
+22339,ART 322,01 ,Constructing Images,ART 322 Constructing Images,3,L,CLAS ,MW,10:00-12:50  ,WG 100W ,Full Term,01/11/2023-04/24/2023 ,"Herrick, J  ",30,18 ,0 ,18 ,18 ,4 ,0,-,Open ,-,-
+22340,ART 323,01 ,Painting II,ART 323 Painting II,3,L,CLAS ,MW,10:00-12:50  ,WG 100W ,Full Term,01/11/2023-04/23/2023 ,"Herrick, J  ",30,18 ,2 ,16 ,18 ,4 ,0,-,Open ,-,-
+22341,ART 324,01 ,Special Projects in Painting,ART 324 Special Projects in Painting,3,L,CLAS ,MW,10:00-12:50  ,WG 100W ,Full Term,01/11/2023-04/24/2023 ,"Herrick, J  ",30,18 ,1 ,17 ,18 ,4 ,0,-,Open ,-,-
+22450,ART 332,01 ,Ceramics II,ART 332 Ceramics II,3,L,CLAS ,MW,10:00-12:50  ,WG 100S ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",75,3 ,2 ,1 ,18 ,20 ,0,-,XL-Closed ,-,-
+22343,ART 334,01 ,Special Projects in Ceramics,ART 334 Special Projects in Ceramics,3,L,CLAS ,MW,10:00-12:50  ,WG 100S ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",75,2 ,0 ,2 ,18 ,20 ,0,-,XL-Closed ,-,-
+20581,ART 353,01 ,Sculpture II,ART 353 Sculpture II,3,L,CLAS ,TR,13:30-16:20  ,WG 100N ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",90,5 ,6 ,-1 ,18 ,19 ,0,-,Closed ,-,-
+20582,ART 354,01 ,Special Projects in Sculpture,ART 354 Special Projects in Sculpture,3,L,CLAS ,TR,13:30-16:20  ,WG 100N ,Full Term,01/11/2023-04/24/2023 ,"Sloan, D  ",90,3 ,0 ,3 ,18 ,19 ,0,-,XL-Closed ,-,IN 
+21644,ART 371,01 ,Modern and Contemporary Latinx Visual Culture,ART 371 Modern and Contemporary Latinx Visual Culture,3,L,CLAS ,MW,15:00-16:20  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Valencia, J  ",-,20 ,17 ,3 ,20 ,19 ,0,-,Open ,CUL3,-
+22502,ART 372,1 ,Media Theory,ART 372 Media Theory,3,L,CLAS ,TR,09:30-10:50  ,HV 202 ,Full Term,01/11/2023-04/24/2023 ,"Albers, K  ",-,15 ,15 ,0 ,-,-,0,-,Closed ,-,-
+21646,ART 375,01 ,Graphic Design III: Logo Design and Branding Systems,ART 375 Graphic Design III: Logo Design and Branding Systems,3,L,CLAS ,MW,13:30-16:20  ,WG 011 ,Full Term,01/11/2023-04/24/2023 ,"Caterini, D  ",100,15 ,15 ,0 ,-,-,0,-,Closed ,-,-
+21330,ART 389,01 ,Senior Project in Studio Art,ART 389 Senior Project in Studio Art,0-4,L,CLAS ,F,10:00-14:00  ,WG 011 ,Full Term,01/11/2023-04/24/2023 ,"Herrick, J  ",100,25 ,11 ,14 ,-,-,0,-,Open ,-,-
+20282,BIOL 151,01 ,Cell & Molecular Biology,BIOL 151 Cell & Molecular Biology,4,L,CLAS ,MWF,10:00-10:50  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,24 ,17 ,7 ,-,-,-,-,Open ,-,-
+21616,BIOL 151,02 ,Cell & Molecular Biology,BIOL 151 Cell & Molecular Biology,4,L,CLAS ,MWF,11:00-11:50  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,24 ,7 ,17 ,-,-,-,-,Open ,-,-
+20290,BIOL 151L,01 ,Cell & Molecular Biology Lab,BIOL 151L Cell & Molecular Biology Lab,0,X,CLAS ,M,13:30-16:20  ,SLC 319 ,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,24 ,18 ,6 ,-,-,0,-,Open ,-,-
+20291,BIOL 151L,02 ,Cell & Molecular Biology Lab,BIOL 151L Cell & Molecular Biology Lab,0,X,CLAS ,T,13:30-16:20  ,SLC 319 ,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,24 ,6 ,18 ,-,-,0,-,Open ,-,-
+20283,BIOL 152,01 ,Biology of Organisms,BIOL 152 Biology of Organisms,4,L,CLAS ,MWF,11:00-11:50  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,24 ,11 ,13 ,-,-,-,-,Open ,-,-
+21945,BIOL 152,1 ,Biology of Organisms,BIOL 152 Biology of Organisms,4,L,CLAS ,MWF,10:00-10:50  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,24 ,11 ,13 ,-,-,-,-,Open ,-,-
+20293,BIOL 152L,02 ,Biology of Organisms Lab,BIOL 152L Biology of Organisms Lab,0,X,CLAS ,W,13:30-16:20  ,SLC 319 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,24 ,14 ,10 ,-,-,0,-,Open ,-,-
+21651,BIOL 152L,03 ,Biology of Organisms Lab,BIOL 152L Biology of Organisms Lab,0,X,CLAS ,R,13:30-16:20  ,SLC 319 ,Full Term,01/11/2023-04/24/2023 ,"Lozano, C  ",-,24 ,8 ,16 ,-,-,0,-,Open ,-,-
+22448,BIOL 245,01 ,Human Biology,BIOL 245 Human Biology,3,L,CLAS ,MW,12:00-13:20  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Valenzuela, H  ",-,24 ,23 ,1 ,-,-,-,-,Open ,CON2,-
+20284,BIOL 251,01 ,Ecology & Evolution of Organisms,BIOL 251 Ecology & Evolution of Organisms,4,L,CLAS ,TR,09:30-10:50  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,20 ,6 ,14 ,20 ,10 ,-,-,Open ,COM2,-
+20294,BIOL 251L,01 ,Ecology & Evolution of Organisms Lab,BIOL 251L Ecology & Evolution of Organisms Lab,0,X,CLAS ,T,13:30-16:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,20 ,6 ,14 ,20 ,10 ,0,-,Open ,-,-
+21373,BIOL 302,02 ,Applied Human Anatomy and Physiology,BIOL 302 Applied Human Anatomy and Physiology,4,L,CLAS ,TR,11:00-12:20  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,26 ,25 ,1 ,-,-,-,-,Open ,-,-
+21949,BIOL 302,01 ,Applied Human Anatomy and Physiology,BIOL 302 Applied Human Anatomy and Physiology,4,L,CLAS ,TR,09:30-10:50  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,22 ,12 ,10 ,-,-,-,-,Open ,-,-
+21374,BIOL 302L,01 ,Applied Human Anatomy and Physiology Lab,BIOL 302L Applied Human Anatomy and Physiology Lab,0,X,CLAS ,R,13:30-16:20  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,24 ,17 ,7 ,-,-,0,-,Open ,-,-
+21375,BIOL 302L,02 ,Applied Human Anatomy and Physiology Lab,BIOL 302L Applied Human Anatomy and Physiology Lab,0,X,CLAS ,T,13:30-16:20  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Kloess, P  ",-,24 ,20 ,4 ,-,-,0,-,Open ,-,-
+22347,BIOL 331,1 ,Immunology,BIOL 331 Immunology,4,L,CLAS ,TR,09:30-10:50  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Vetrone, S  ",-,24 ,18 ,6 ,-,-,-,-,Open ,-,-
+22348,BIOL 331L,1 ,Immunology Lab,BIOL 331L Immunology Lab,0,X,CLAS ,T,13:30-16:20  ,SLC 404 ,Full Term,01/11/2023-04/24/2023 ,"Vetrone, S  ",-,24 ,18 ,6 ,-,-,0,-,Open ,-,-
+20285,BIOL 343,01 ,Microbiology,BIOL 343 Microbiology,4,L,CLAS ,TR,09:30-10:50  ,SLC 508 ,Full Term,01/11/2023-04/24/2023 ,"Valenzuela, H  ",-,23 ,23 ,0 ,-,-,-,-,Closed ,-,-
+20297,BIOL 343L,01 ,Microbiology Lab,BIOL 343L Microbiology Lab,0,X,CLAS ,R,13:30-16:20  ,SLC 404 ,Full Term,01/11/2023-04/24/2023 ,"Valenzuela, H  ",-,23 ,23 ,0 ,-,-,0,-,Closed ,-,-
+22453,BIOL 355,01 ,Plant Biology,BIOL 355 Plant Biology,4,L,CLAS ,MWF,11:00-11:50  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,20 ,13 ,7 ,20 ,19 ,-,-,Open ,-,-
+22236,BIOL 355L,01 ,Plant Biology Lab,BIOL 355L Plant Biology Lab,0,X,CLAS ,W,13:30-16:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,20 ,13 ,7 ,20 ,19 ,0,-,Open ,-,-
+22346,BIOL 379,1 ,Conservation Biology,BIOL 379 Conservation Biology,4,L,CLAS ,WF,12:00-13:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,24 ,15 ,9 ,24 ,20 ,0,-,Open ,-,-
+22505,BIOL 379L,1 ,Conservation Biology Lab,BIOL 379L Conservation Biology Lab,0,X,CLAS ,F,13:30-16:20  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,24 ,15 ,9 ,24 ,20 ,-,-,Open ,-,-
+20288,BIOL 381,01 ,Molecular Genetics,BIOL 381 Molecular Genetics,4,L,CLAS ,MWF,10:00-10:50  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Bourgaize, D  ",-,24 ,17 ,7 ,-,-,-,-,Open ,-,-
+20298,BIOL 381L,01 ,Molecular Genetics Lab,BIOL 381L Molecular Genetics Lab,0,X,CLAS ,M,13:30-16:20  ,SLC 404 ,Full Term,01/11/2023-04/24/2023 ,"Bourgaize, D  ",-,24 ,17 ,7 ,-,-,0,-,Open ,-,-
+22350,BIOL 383,1 ,Genetics & Genomics,BIOL 383 Genetics & Genomics,4,L,CLAS ,MWF,09:00-09:50  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,24 ,15 ,9 ,-,-,-,-,Open ,-,-
+22351,BIOL 383L,1 ,Genetics Lab,BIOL 383L Genetics Lab,0,X,CLAS ,F,13:30-16:20  ,SLC 404 ,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,24 ,15 ,9 ,-,-,0,-,Open ,-,-
+21399,BIOL 493,01 ,Biology Seminar,BIOL 493 Biology Seminar,0-1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Bourgaize, D  ",-,4 ,1 ,3 ,-,-,0,-,Open ,COM4,IN 
+22240,BIOL 493,03 ,Biology Seminar,BIOL 493 Biology Seminar,0-1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,4 ,3 ,1 ,-,-,-,-,Open ,COM4,IN 
+22241,BIOL 493,04 ,Biology Seminar,BIOL 493 Biology Seminar,0-1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,4 ,0 ,4 ,-,-,-,-,Open ,COM4,IN 
+22242,BIOL 493,05 ,Biology Seminar,BIOL 493 Biology Seminar,0-1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Valenzuela, H  ",-,7 ,7 ,0 ,-,-,-,-,Closed ,COM4,IN 
+22243,BIOL 493,06 ,Biology Seminar,BIOL 493 Biology Seminar,0-1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Vetrone, S  ",-,4 ,4 ,0 ,-,-,-,-,Closed ,COM4,IN 
+22310,BIOL 493,07 ,Biology Seminar,BIOL 493 Biology Seminar,0-1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,4 ,1 ,3 ,-,-,-,-,Open ,COM4,IN 
+20603,BIOL 496,06 ,Undergraduate Research in Biology,BIOL 496 Undergraduate Research in Biology,45017,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Link, J  ",-,5 ,2 ,3 ,-,-,-,-,Open ,-,IN 
+21118,BIOL 496,01 ,Undergraduate Research in Biology,BIOL 496 Undergraduate Research in Biology,45017,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Vetrone, S  ",-,5 ,0 ,5 ,-,-,-,-,Open ,-,IN 
+21119,BIOL 496,02 ,Undergraduate Research in Biology,BIOL 496 Undergraduate Research in Biology,45017,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Valenzuela, H  ",-,5 ,1 ,4 ,-,-,-,-,Open ,-,IN 
+22134,BIOL 496,03 ,Undergraduate Research in Biology,BIOL 496 Undergraduate Research in Biology,45017,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"TBA, .  ",-,5 ,0 ,5 ,-,-,-,-,Open ,-,IN 
+22135,BIOL 496,07 ,Undergraduate Research in Biology,BIOL 496 Undergraduate Research in Biology,45017,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Bourgaize, D  ",-,5 ,0 ,5 ,-,-,-,-,Open ,-,IN 
+22352,BIOL 496,4 ,Undergraduate Research in Biology,BIOL 496 Undergraduate Research in Biology,45017,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,5 ,0 ,5 ,-,-,-,-,Open ,-,IN 
+20023,BSAD 130,01 ,Business and Society,BSAD 130 Business and Society,3,L,CLAS ,MWF,10:00-10:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Mendez, R  ",-,25 ,18 ,7 ,-,-,0,-,Open ,-,-
+20024,BSAD 130,02 ,Business and Society,BSAD 130 Business and Society,3,L,CLAS ,MWF,08:00-08:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Mendez, R  ",-,25 ,7 ,18 ,-,-,0,-,Open ,-,-
+20587,BSAD 130,03 ,Business and Society,BSAD 130 Business and Society,3,L,CLAS ,MWF,09:00-09:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Mendez, R  ",-,25 ,19 ,6 ,-,-,0,-,Open ,-,-
+20025,BSAD 201,01 ,Principles of Financial Accounting,BSAD 201 Principles of Financial Accounting,3,L,CLAS ,TR,15:00-16:20  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Nino, L  ",-,25 ,13 ,12 ,-,-,0,-,Open ,-,-
+21243,BSAD 201,02 ,Principles of Financial Accounting,BSAD 201 Principles of Financial Accounting,3,L,CLAS ,TR,13:30-14:50  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Nino, L  ",-,25 ,23 ,2 ,-,-,0,-,Open ,-,-
+20026,BSAD 202,02 ,Principles of Managerial Accounting,BSAD 202 Principles of Managerial Accounting,3,L,CLAS ,TR,09:30-10:50  ,HV 205 ,Full Term,01/11/2023-04/24/2023 ,"Ichiho, R  ",-,25 ,13 ,12 ,-,-,0,-,Open ,-,-
+22353,BSAD 202,1 ,Principles of Managerial Accounting,BSAD 202 Principles of Managerial Accounting,3,L,CLAS ,TR,11:00-12:20  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Ichiho, R  ",-,25 ,17 ,8 ,-,-,0,-,Open ,-,-
+20028,BSAD 231,01 ,Business Law,BSAD 231 Business Law,3,L,CLAS ,TR,09:30-10:50  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Gold, G  ",-,25 ,22 ,3 ,-,-,0,-,Open ,-,-
+22136,BSAD 301,01 ,Intermediate Accounting I,BSAD 301 Intermediate Accounting I,3,L,CLAS ,TR,13:30-14:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Gold, G  ",-,25 ,9 ,16 ,-,-,0,-,Open ,-,-
+21653,BSAD 306,01 ,Auditing and Case Simulations,BSAD 306 Auditing and Case Simulations,3,L,CLAS ,TR,11:00-12:20  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Nino, L  ",-,25 ,18 ,7 ,-,-,0,-,Open ,-,-
+20029,BSAD 310,01 ,Business Finance I,BSAD 310 Business Finance I,3,L,CLAS ,MW,08:30-09:50  ,HV 205 ,Full Term,01/11/2023-04/24/2023 ,"Radoniqi, F  ",-,30 ,28 ,2 ,-,-,0,-,Open ,-,-
+20031,BSAD 320,01 ,Marketing Principles,BSAD 320 Marketing Principles,3,L,CLAS ,WF,12:00-13:20  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Smirnov, K  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+20032,BSAD 320,02 ,Marketing Principles,BSAD 320 Marketing Principles,3,L,CLAS ,WF,15:00-16:20  ,HV 108 ,Full Term,01/11/2023-04/24/2023 ,"Smirnov, K  ",-,25 ,9 ,16 ,-,-,0,-,Open ,-,-
+20033,BSAD 330,01 ,Management and Organizational Behavior,BSAD 330 Management and Organizational Behavior,3,L,CLAS ,TR,15:00-16:20  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Kaur, M  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+20523,BSAD 341,02 ,Management Information Systems,BSAD 341 Management Information Systems,3,L,CLAS ,MW,12:00-13:20  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Mitchell Sr, P  ",-,28 ,28 ,0 ,-,-,0,-,Closed ,-,-
+21297,BSAD 341,03 ,Management Information Systems,BSAD 341 Management Information Systems,3,L,CLAS ,MW,15:00-16:20  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Mitchell Sr, P  ",-,28 ,12 ,16 ,-,-,0,-,Open ,-,-
+20037,BSAD 350,01 ,International Business,BSAD 350 International Business,3,L,CLAS ,MW,08:30-09:50  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Sattari, S  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+22355,BSAD 360,1 ,Sustainable Development and the Triple Bottom Line,BSAD 360 Sustainable Development and the Triple Bottom Line,3,L,CLAS ,MW,12:00-13:20  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Sattari, S  ",-,25 ,14 ,11 ,25 ,18 ,0,-,Open ,CUL6,-
+22137,BSAD 363,01 ,Negotiation Strategies,BSAD 363 Negotiation Strategies,3,L,CLAS ,MW,12:00-13:20  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Mendez, R  ",-,25 ,21 ,4 ,-,-,0,-,Open ,-,-
+22294,BSAD 365,01 ,Diversity in Organizations,BSAD 365 Diversity in Organizations,3,L,CLAS ,TR,11:00-12:20  ,HV 005 ,Full Term,01/11/2023-04/24/2023 ,"Kaur, M  ",-,25 ,15 ,10 ,-,-,0,-,Open ,CUL4,-
+20585,BSAD 392,01 ,Business Internship,BSAD 392 Business Internship,44986,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ichiho, R  ",-,25 ,7 ,18 ,-,-,0,-,Open ,-,IN 
+22354,BSAD 413,1 ,Principles of Investments,BSAD 413 Principles of Investments,3,L,CLAS ,MWF,10:00-10:50  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Radoniqi, F  ",-,25 ,13 ,12 ,-,-,0,-,Open ,-,-
+22356,BSAD 422,1 ,Consumer Behavior,BSAD 422 Consumer Behavior,3,L,CLAS ,W,19:00-21:50  ,HV 205 ,Full Term,01/11/2023-04/24/2023 ,"Smirnov, K  ",40,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+22083,BSAD 423,01 ,International Marketing,BSAD 423 International Marketing,3,L,CLAS ,MW,15:00-16:20  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Sattari, S  ",-,25 ,23 ,2 ,-,-,0,-,Open ,CUL6,-
+21340,BSAD 431,02 ,Human Resources Management,BSAD 431 Human Resources Management,3,L,CLAS ,TR,13:30-14:50  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Kaur, M  ",-,25 ,7 ,18 ,-,-,0,-,Open ,-,-
+21985,BSAD 435,1 ,Leading & Growing the Small Business,BSAD 435 Leading & Growing the Small Business,3,L,CLAS ,TR,15:00-16:20  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Ichiho, R  ",-,25 ,12 ,13 ,-,-,0,-,Open ,-,-
+20041,BSAD 489,02 ,Management Strategy and Policy,BSAD 489 Management Strategy and Policy,3,L,CLAS ,MW,15:00-16:20  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Fisher, S  ",-,20 ,20 ,0 ,-,-,0,-,Closed ,COM4,-
+22476,BSAD 489,01 ,Management Strategy and Policy,BSAD 489 Management Strategy and Policy,3,L,CLAS ,MW,12:00-13:20  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Fisher, S  ",-,20 ,20 ,0 ,-,-,0,-,Closed ,COM4,-
+20046,CHDV 105,01 ,Introduction to Child Development,CHDV 105 Introduction to Child Development,3,L,CLAS ,MW,12:00-13:20  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Bunt, S  ",-,25 ,23 ,2 ,-,-,0,-,Open ,-,-
+22478,CHDV 210,1 ,Early Childhood Education,CHDV 210 Early Childhood Education,3,L,CLAS ,TR,11:00-12:20  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Sebanc, A  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+22481,CHDV 217,1 ,Play Development,CHDV 217 Play Development,3,L,CLAS ,TR,15:00-16:20  ,HV 004B ,Full Term,01/11/2023-04/24/2023 ,"Obregon, N  ",-,26 ,26 ,0 ,-,-,-,-,Closed ,-,-
+22482,CHDV 340,1 ,Language Development,CHDV 340 Language Development,3,L,CLAS ,TR,13:30-14:50  ,HV 004B ,Full Term,01/11/2023-04/24/2023 ,"Obregon, N  ",-,25 ,21 ,4 ,-,-,0,-,Open ,-,-
+21660,CHDV 487,01 ,Early Childhood Practicum,CHDV 487 Early Childhood Practicum,3,L,CLAS ,MW,12:00-13:20  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Sebanc, A  ",-,10 ,7 ,3 ,-,-,0,-,Open ,-,-
+21661,CHDV 488,01 ,Child Development Practicum,CHDV 488 Child Development Practicum,3,L,CLAS ,MW,12:00-13:20  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Sebanc, A  ",-,15 ,12 ,3 ,-,-,0,-,Open ,-,-
+20054,CHDV 497,01 ,Senior Seminar in Child Development,CHDV 497 Senior Seminar in Child Development,3,L,CLAS ,MW,15:00-16:20  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Obregon, N  ",-,15 ,9 ,6 ,-,-,0,-,Open ,COM4,IN 
+20056,CHEM 110B,01 ,General Chemistry II,CHEM 110B General Chemistry II,4,L,CLAS ,MWF,12:00-12:50  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Peterson, P  ",-,24 ,17 ,7 ,-,-,0,-,Open ,COM1,-
+21613,CHEM 110B,03 ,General Chemistry II,CHEM 110B General Chemistry II,4,L,CLAS ,MWF,10:00-10:50  ,SLC 204 ,Full Term,01/11/2023-04/23/2023 ,"Rahimnejad, S  ",-,24 ,8 ,16 ,-,-,0,-,Open ,COM1,-
+22140,CHEM 110B,04 ,General Chemistry II,CHEM 110B General Chemistry II,4,L,CLAS ,MWF,09:00-09:50  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Rahimnejad, S  ",-,24 ,11 ,13 ,-,-,0,-,Open ,COM1,-
+20071,CHEM 231B,01 ,Organic Chemistry II,CHEM 231B Organic Chemistry II,3,L,CLAS ,MWF,09:00-09:50  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Isovitsch, R  ",-,45 ,23 ,22 ,-,-,0,-,Open ,-,-
+20076,CHEM 233B,01 ,Organic Chemistry II Lab,CHEM 233B Organic Chemistry II Lab,1,L,CLAS ,M,13:30-16:20  ,SLC 420 ,Full Term,01/11/2023-04/24/2023 ,"Isovitsch, R  ",-,16 ,8 ,8 ,-,-,-,-,Open ,-,-
+20079,CHEM 233B,02 ,Organic Chemistry II Lab,CHEM 233B Organic Chemistry II Lab,1,L,CLAS ,W,13:30-16:20  ,SLC 420 ,Full Term,01/11/2023-04/24/2023 ,"Isovitsch, R  ",-,16 ,13 ,3 ,-,-,-,-,Open ,-,-
+22483,CHEM 321A,1 ,Physical Chemistry I,CHEM 321A Physical Chemistry I,4,L,CLAS ,MWF,11:00-11:50  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Rahimnejad, S  ",-,15 ,5 ,10 ,-,-,0,-,Open ,-,-
+22359,CHEM 442,1 ,Instrumental Analysis,CHEM 442 Instrumental Analysis,4,L,CLAS ,MWF,09:00-09:50  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Peterson, P  ",-,24 ,1 ,23 ,-,-,-,-,Open ,-,-
+22361,CHEM 442L,1 ,Instrumental Analysis Lab,CHEM 442L Instrumental Analysis Lab,0-1,X,CLAS ,T,13:30-16:20  ,SLC 420 ,Full Term,01/11/2023-04/24/2023 ,"Peterson, P  ",-,24 ,1 ,23 ,-,-,0,-,Open ,-,-
+20085,CHEM 471B,01 ,Biochemistry II,CHEM 471B Biochemistry II,3,L,CLAS ,MWF,12:00-12:50  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Iimoto, D  ",-,30 ,3 ,27 ,-,-,0,-,Open ,-,-
+21666,CHEM 473,01 ,Advanced Biochemistry Lab,CHEM 473 Advanced Biochemistry Lab,1,L,CLAS ,W,13:30-16:20  ,SLC 404 ,Full Term,01/11/2023-04/24/2023 ,"Iimoto, D  ",-,10 ,1 ,9 ,-,-,0,-,Open ,-,-
+22360,CHEM 486,1 ,Integrated Laboratory,CHEM 486 Integrated Laboratory,3,L,CLAS ,R,13:30-16:20  ,SLC 420 ,Full Term,01/11/2023-04/24/2023 ,"Isovitsch, R  ",-,15 ,5 ,10 ,-,-,0,-,Open ,-,-
+20877,CHEM 496,01 ,Chemistry Research,CHEM 496 Chemistry Research,0-3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Peterson, P  ",-,5 ,0 ,5 ,-,-,-,-,Open ,COM4,IN 
+21811,CHEM 496,03 ,Chemistry Research,CHEM 496 Chemistry Research,0-3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Iimoto, D  ",-,5 ,2 ,3 ,-,-,0,-,Open ,COM4,IN 
+21979,CHEM 496,1 ,Chemistry Research,CHEM 496 Chemistry Research,0-3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Isovitsch, R  ",-,5 ,3 ,2 ,-,-,-,-,Open ,COM4,IN 
+22363,CHIN 110,1 ,Modern Chinese Literature,CHIN 110 Modern Chinese Literature,3,L,CLAS ,MW,12:00-13:20  ,PL 201 ,Full Term,01/11/2023-04/24/2023 ,"Berthel, K  ",-,20 ,1 ,19 ,25 ,2 ,0,-,Open ,CUL6,-
+22364,CHIN 121,1 ,Elementary Chinese II,CHIN 121 Elementary Chinese II,4,L,CLAS ,MTWR,11:00-11:50  ,PL 201 ,Full Term,01/11/2023-04/24/2023 ,"Berthel, K  ",-,25 ,4 ,21 ,-,-,0,-,Open ,CUL7,-
+21744,CHIN 150,01 ,Chinese Cinema,CHIN 150 Chinese Cinema,3,L,CLAS ,M,19:00-21:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Berthel, K  ",-,25 ,17 ,8 ,35 ,17 ,0,-,Open ,CUL2,-
+22468,CHIN 310,1 ,Modern Chinese Literature,CHIN 310 Modern Chinese Literature,3,L,CLAS ,MW,12:00-13:20  ,PL 201 ,Full Term,01/11/2023-04/24/2023 ,"Berthel, K  ",-,5 ,1 ,4 ,25 ,2 ,0,-,Open ,CUL6,-
+21748,CHIN 350,01 ,Chinese Cinema,CHIN 350 Chinese Cinema,3,L,CLAS ,M,19:00-21:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Berthel, K  ",-,10 ,0 ,10 ,35 ,17 ,0,-,Open ,CUL2,IN 
+21121,COSC 100,01 ,Introduction to Computer Sys,COSC 100 Introduction to Computer Sys,3,L,CLAS ,MWF,10:00-10:50  ,SLC 416 ,Full Term,01/11/2023-04/24/2023 ,"Lutgen, J  ",-,24 ,20 ,4 ,-,-,0,-,Open ,COM1,-
+21559,COSC 120,01 ,Computer Science I,COSC 120 Computer Science I,3,L,CLAS ,TR,13:30-14:50  ,SLC 416 ,Full Term,01/11/2023-04/24/2023 ,"Park, F  ",-,24 ,19 ,5 ,-,-,0,-,Open ,-,-
+22406,COSC 180,1 ,Introduction to Data Science with Python,COSC 180 Introduction to Data Science with Python,3,L,CLAS ,TR,11:00-12:20  ,SLC 232 ,Full Term,01/11/2023-04/24/2023 ,"Piner, G  ",-,16 ,15 ,1 ,-,-,0,-,Open ,-,-
+21757,COSC 240,01 ,Data Structures and Algorithms,COSC 240 Data Structures and Algorithms,3,L,CLAS ,TR,13:30-14:50  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Wong, G  ",-,24 ,17 ,7 ,-,-,0,-,Open ,-,-
+22393,COSC 390,1 ,Microcontrollers,COSC 390 Microcontrollers,3,L,CLAS ,TR,15:00-16:20  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Lutgen, J  ",-,11 ,11 ,0 ,-,-,0,-,Closed ,-,IN 
+22085,COSC 499,01 ,Senior Project,COSC 499 Senior Project,44987,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Wong, G  ",-,24 ,12 ,12 ,-,-,0,-,Open ,COM4,-
+20324,ECON 200,02 ,Principles of Economics: Macro,ECON 200 Principles of Economics: Macro,3,L,CLAS ,MWF,09:00-09:50  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Khokher, P  ",-,25 ,23 ,2 ,-,-,0,-,Open ,-,-
+21549,ECON 200,01 ,Principles of Economics: Macro,ECON 200 Principles of Economics: Macro,3,L,CLAS ,MWF,10:00-10:50  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Khokher, P  ",-,25 ,22 ,3 ,-,-,0,-,Open ,-,-
+20061,ECON 201,01 ,Principles of Economics: Micro,ECON 201 Principles of Economics: Micro,3,L,CLAS ,MW,12:00-13:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Lee, S  ",-,25 ,16 ,9 ,-,-,0,-,Open ,-,-
+20063,ECON 201,02 ,Principles of Economics: Micro,ECON 201 Principles of Economics: Micro,3,L,CLAS ,MW,13:30-14:50  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Lee, S  ",-,25 ,15 ,10 ,-,-,0,-,Open ,-,-
+21355,ECON 205,01 ,Intro to Quantitative Methods,ECON 205 Intro to Quantitative Methods,3,L,CLAS ,MWF,12:00-12:50  ,SLC 416 ,Full Term,01/11/2023-04/24/2023 ,"Khokher, P  ",-,20 ,8 ,12 ,-,-,0,-,Open ,COM1,-
+20065,ECON 300,01 ,Intermediate Macroeconomic Theory,ECON 300 Intermediate Macroeconomic Theory,4,L,CLAS ,TR,10:00-11:50  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Bezares Calderon, A  ",-,25 ,14 ,11 ,-,-,0,-,Open ,-,-
+22072,ECON 371,01 ,Political Economy of Development,ECON 371 Political Economy of Development,3,L,CLAS ,TR,13:30-14:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Bezares Calderon, A  ",-,25 ,8 ,17 ,25 ,10 ,0,-,Open ,CUL1,-
+22220,ECON 386,01 ,Growth & Development,ECON 386 Growth & Development,3,L,CLAS ,MWF,13:30-14:20  ,DH 118 ,Full Term,01/11/2023-04/24/2023 ,"Khokher, P  ",-,25 ,7 ,18 ,-,-,0,-,Open ,CUL1,-
+22365,ECON 390,1 ,Behavioral Economics: Psychology and Economics,ECON 390 Behavioral Economics: Psychology and Economics,3,L,CLAS ,MW,15:00-16:20  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Lee, S  ",-,25 ,9 ,16 ,-,-,0,-,Open ,-,-
+22221,ECON 400A,01 ,Senior Project I in Economics,ECON 400A Senior Project I in Economics,3,R,CLAS ,TR,15:00-16:20  ,HV 106 ,Full Term,01/11/2023-04/02/2023 ,"Bezares Calderon, A  ",-,20 ,5 ,15 ,-,-,0,-,Open ,-,IN 
+20842,ECON 400B,01 ,Senior Project II in Economics,ECON 400B Senior Project II in Economics,1,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Bezares Calderon, A  ",-,20 ,5 ,15 ,-,-,0,-,Open ,COM4,IN 
+22022,EDUC 067,01 ,Experiences in Education,EDUC 067 Experiences in Education,0-3,L,CLAS ,T,15:00-16:20  ,HV 003 ,Full Term,01/11/2023-04/23/2023 ,"Swanson, L  ",-,20 ,5 ,15 ,-,-,0,-,Open ,SLC,-
+21364,EDUC 067L,01 ,Experiences in Education Lab,EDUC 067L Experiences in Education Lab,0,X,CLAS ,R,15:00-16:20  ,HV 003 ,Full Term,01/11/2023-04/23/2023 ,"Swanson, L  ",-,10 ,5 ,5 ,-,-,0,-,Open ,-,-
+20087,EDUC 300,01 ,Sociological & Historical Perspectives on Education,EDUC 300 Sociological & Historical Perspectives on Education,3,L,CLAS ,R,17:00-19:50  ,SLC 200 ,Full Term,01/11/2023-04/23/2023 ,"Algario, D  ",-,10 ,5 ,5 ,25 ,19 ,0,-,Open ,CUL4,-
+22492,EDUC 401,1 ,Teaching Diverse Learners,EDUC 401 Teaching Diverse Learners,3,L,CLAS ,MW,12:00-13:20  ,BALL  ,Full Term,01/11/2023-04/24/2023 ,"Villalon, K  ",-,25 ,10 ,15 ,-,-,0,-,Open ,-,-
+21789,EDUC 404,01 ,Second Language Acquisition Methodology,EDUC 404 Second Language Acquisition Methodology,3,L,CLAS ,M,17:00-19:50  ,ONLINE  ,Full Term,01/11/2023-04/23/2023 ,"Soto-Hinman, I  ",-,7 ,7 ,0 ,25 ,16 ,0,-,Closed ,-,-
+20092,EDUC 405,01 ,Multiple Subject Curriculum & Pedagogy: Lang Arts w/Hist-Soc Sci & Visual & Perf Arts,EDUC 405 Multiple Subject Curriculum & Pedagogy: Lang Arts w/Hist-Soc Sci & Visual & Perf Arts,3,L,CLAS ,M,17:00-19:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Ybarra, C  ",50,7 ,1 ,6 ,25 ,8 ,0,-,Open ,-,IN 
+21000,EDUC 409,01 ,Single Subject Curriculum & Pedagogy II: Math & Science,EDUC 409 Single Subject Curriculum & Pedagogy II: Math & Science,3,L,CLAS ,W,17:00-19:50  ,SLC 200 ,Full Term,01/11/2023-04/23/2023 ,"Swanson, L  ",50,7 ,0 ,7 ,25 ,4 ,0,-,Open ,-,IN 
+21001,EDUC 409,3 ,Single Subject Curriculum & Pedagogy II: History & English,EDUC 409 Single Subject Curriculum & Pedagogy II: History & English,3,L,CLAS ,W,17:00-19:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Jones, M  ",50,7 ,1 ,6 ,25 ,7 ,0,-,Open ,-,IN 
+21068,EDUC 409,1 ,Single Subject Curriculum & Pedagogy II: PE,EDUC 409 Single Subject Curriculum & Pedagogy II: PE,3,L,CLAS ,W,17:00-19:50  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Moore, P  ",50,7 ,0 ,7 ,25 ,6 ,0,-,Open ,-,IN 
+21817,EDUC 412,01 ,Prmtng Stdnts Health n Safety,EDUC 412 Prmtng Stdnts Health n Safety,1,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Moore, P  ",-,7 ,1 ,6 ,25 ,12 ,0,-,Open ,-,IN 
+22149,EDUC 420,01 ,Student Teaching,EDUC 420 Student Teaching,0-12,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ybarra, C  ",-,7 ,2 ,5 ,27 ,8 ,-,-,Open ,-,-
+22150,EDUC 421,01 ,Professional Development Seminar: Education Specialist,EDUC 421 Professional Development Seminar: Education Specialist,1,L,CLAS ,T,16:00-16:50  ,SLC 205 ,Full Term,01/11/2023-04/23/2023 ,TBA  ,-,7 ,2 ,5 ,-,-,0,-,Open ,-,-
+22509,EDUC 425,1 ,Chicano/Latino Cultures: An Interdisciplinary Perspective,EDUC 425 Chicano/Latino Cultures: An Interdisciplinary Perspective,3,L,CLAS ,R,17:00-19:45  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",-,10 ,1 ,9 ,10 ,1 ,0,-,Open ,-,-
+21781,EDUC 432,01 ,Case Mgt and Assistive Tech,EDUC 432 Case Mgt and Assistive Tech,2,L,CLAS ,W,17:00-18:50  ,HV 202 ,Full Term,01/11/2023-04/24/2023 ,"Ige, E  ",-,7 ,1 ,6 ,25 ,2 ,0,-,Open ,-,IN 
+21343,EDUC 433,01 ,Applied Behavior Analysis in Schools,EDUC 433 Applied Behavior Analysis in Schools,3,L,CLAS ,M,17:00-19:50  ,HV 113 ,Full Term,01/11/2023-04/23/2023 ,"Colcord, C  ",-,7 ,0 ,7 ,25 ,3 ,0,Y,Open ,-,IN 
+22027,EDUC 436,01 ,Characteristics and Instructional Strategies for Students with Moderate to Severe Disabilities,EDUC 436 Characteristics and Instructional Strategies for Students with Moderate to Severe Disabilities,3,L,CLAS ,R,17:00-19:50  ,HV 104 ,Full Term,01/11/2023-04/23/2023 ,"Colcord, C  ",-,7 ,1 ,6 ,25 ,1 ,0,-,Open ,-,IN 
+21786,EDUC 500,1 ,Social/Anthropological Perspective on Education,EDUC 500 Social/Anthropological Perspective on Education,3,L,CLAS ,R,17:00-19:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Algario, D  ",-,15 ,14 ,1 ,25 ,19 ,0,-,Open ,-,-
+21788,EDUC 504,01 ,Second Language Acquisition Methodology,EDUC 504 Second Language Acquisition Methodology,3,L,CLAS ,M,17:00-19:50  ,ONLINE  ,Full Term,01/11/2023-04/23/2023 ,"Soto-Hinman, I  ",-,18 ,9 ,9 ,25 ,16 ,0,-,Open ,-,-
+20994,EDUC 505,01 ,"Multiple Subject Curriculum & Pedagogy: Language Arts with Social Studies, Visual & Performing Arts","EDUC 505 Multiple Subject Curriculum & Pedagogy: Language Arts with Social Studies, Visual & Performing Arts",3,L,CLAS ,M,17:00-19:50  ,-,Full Term,01/11/2023-04/24/2023 ,"Ybarra, C  ",-,18 ,7 ,11 ,25 ,8 ,0,-,Open ,-,-
+21600,EDUC 506,01 ,Learning and Learners,EDUC 506 Learning and Learners,3,L,CLAS ,M,17:00-19:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Algario, D  ",-,25 ,9 ,16 ,-,-,0,-,Open ,-,-
+21052,EDUC 509,02 ,Single Subject Curriculum & Pedagogy II: Math & Science,EDUC 509 Single Subject Curriculum & Pedagogy II: Math & Science,3,L,CLAS ,W,17:00-19:50  ,SLC 200 ,Full Term,01/11/2023-04/23/2023 ,"Swanson, L  ",50,18 ,4 ,14 ,25 ,4 ,0,-,Open ,-,-
+21064,EDUC 509,3 ,Single Subject Curriculum & Pedagogy II: History & English,EDUC 509 Single Subject Curriculum & Pedagogy II: History & English,3,L,CLAS ,W,17:00-19:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Jones, M  ",50,18 ,6 ,12 ,25 ,7 ,0,-,Open ,-,-
+21065,EDUC 509,1 ,Single Subject Curriculum & Pedagogy II: PE,EDUC 509 Single Subject Curriculum & Pedagogy II: PE,3,L,CLAS ,W,17:00-19:50  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Moore, P  ",50,18 ,6 ,12 ,25 ,6 ,0,-,Open ,-,-
+21808,EDUC 512,01 ,Promoting Student's Health and Safety,EDUC 512 Promoting Student's Health and Safety,1,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Moore, P  ",-,18 ,11 ,7 ,25 ,12 ,0,-,Open ,-,-
+21003,EDUC 520,1 ,Student Teaching,EDUC 520 Student Teaching,12,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ybarra, C  ",250,20 ,6 ,14 ,27 ,8 ,0,-,Open ,-,IN 
+21005,EDUC 521,1 ,Prof. Development Seminar: Single Subject,EDUC 521 Prof. Development Seminar: Single Subject,1,P,CLAS ,M,16:00-16:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Ybarra, C  ",-,20 ,3 ,17 ,-,-,0,-,Open ,-,-
+21006,EDUC 521,2 ,Prof. Development Seminar: Education Specialist,EDUC 521 Prof. Development Seminar: Education Specialist,1,P,CLAS ,T,16:00-16:50  ,SLC 205 ,Full Term,01/11/2023-04/23/2023 ,"Colcord, C  ",-,20 ,2 ,18 ,27 ,2 ,0,-,Open ,-,-
+22029,EDUC 521,01 ,Prof. Development Seminar: Multiple Subject,EDUC 521 Prof. Development Seminar: Multiple Subject,1,P,CLAS ,M,16:00-16:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Ybarra, C  ",-,20 ,2 ,18 ,-,-,0,-,Open ,-,-
+22290,EDUC 525,01 ,Chicano/Latino Cultures: An Interdisciplinary Perspective,EDUC 525 Chicano/Latino Cultures: An Interdisciplinary Perspective,3,L,CLAS ,R,17:00-19:45  ,HV 106 ,Full Term,01/11/2023-04/23/2023 ,"Flores, J  ",-,10 ,3 ,7 ,-,-,-,-,Open ,-,IN 
+21100,EDUC 532,01 ,Case Management and Assistive Tech,EDUC 532 Case Management and Assistive Tech,2,L,CLAS ,W,17:00-18:50  ,HV 202 ,Full Term,01/11/2023-04/24/2023 ,"Ige, E  ",-,18 ,1 ,17 ,25 ,2 ,0,-,Open ,-,IN 
+21059,EDUC 533,01 ,Creating Positive Classroom Management and Behavior Systems,EDUC 533 Creating Positive Classroom Management and Behavior Systems,3,L,CLAS ,M,17:00-19:50  ,HV 113 ,Full Term,01/11/2023-04/23/2023 ,"Colcord, C  ",-,18 ,3 ,15 ,25 ,3 ,0,-,Open ,-,-
+22028,EDUC 536,01 ,Characteristics and Instructional Practices for Moderate to Severe Disabilities,EDUC 536 Characteristics and Instructional Practices for Moderate to Severe Disabilities,3,L,CLAS ,R,17:00-19:50  ,HV 104 ,Full Term,01/11/2023-04/23/2023 ,"Colcord, C  ",-,18 ,0 ,18 ,25 ,1 ,0,-,Open ,-,-
+22506,EDUC 598,1 ,Induction Mentoring,EDUC 598 Induction Mentoring,45078,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Brennan, L  ",$75/cr,160 ,0 ,160 ,-,-,-,-,Open ,-,IN 
+22507,EDUC 599,1 ,Induction: Advanced Study in Pedagogy,EDUC 599 Induction: Advanced Study in Pedagogy,45261,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Brennan, L  ",$75/cr,160 ,0 ,160 ,-,-,-,-,Open ,-,IN 
+21882,EDUC 605,01 ,Introduction Education Inquiry,EDUC 605 Introduction Education Inquiry,4,L,CLAS ,T,17:00-20:50  ,SLC 200 ,Full Term,01/11/2023-04/23/2023 ,"Swanson, L  ",-,10 ,7 ,3 ,-,-,0,-,Open ,-,IN 
+20992,EDUC 606,01 ,Educational Inquiry Practicum,EDUC 606 Educational Inquiry Practicum,4,L,CLAS ,W,17:00-20:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Algario, D  ",-,10 ,10 ,0 ,-,-,0,-,Closed ,-,IN 
+22508,EDUC 695,1 ,ELL Shadowing,EDUC 695 ELL Shadowing,44986,P,CLAS ,-,-,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Soto-Hinman, I  ",-,100 ,0 ,100 ,-,-,-,-,Open ,-,IN 
+22512,EDUC 698,1 ,CABE DLTA Certificate Program,EDUC 698 CABE DLTA Certificate Program,45139,P,CLAS ,-,-,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Soto-Hinman, I  ",-,100 ,0 ,100 ,-,-,-,-,Open ,-,-
+22513,EDUC 699,1 ,CABE Professional Development,EDUC 699 CABE Professional Development,44986,P,CLAS ,-,-,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Soto-Hinman, I  ",-,100 ,0 ,100 ,-,-,-,-,Open ,-,-
+22154,ENGL 107,01 ,Intro to Professional Writing,ENGL 107 Intro to Professional Writing,3,L,CLAS ,MWF,14:30-15:20  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Burton, J  ",-,20 ,15 ,5 ,-,-,0,-,Open ,COM2,-
+22369,ENGL 111,1 ,History of the English Language,ENGL 111 History of the English Language,3,L,CLAS ,MWF,09:00-09:50  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Morris, S  ",-,20 ,20 ,0 ,-,-,0,-,Closed ,COM2,-
+22156,ENGL 131,01 ,What Are Humans?,ENGL 131 What Are Humans?,3,L,CLAS ,MWF,10:00-10:50  ,HV 004B ,Full Term,01/11/2023-04/24/2023 ,"Paddy, D  ",-,20 ,20 ,0 ,-,-,0,-,Closed ,COM2,-
+22373,ENGL 134,1 ,Horror!,ENGL 134 Horror!,3,L,CLAS ,TR,11:00-12:20  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Paddy, D  ",-,21 ,21 ,0 ,-,-,-,-,Closed ,COM2,-
+22157,ENGL 142,01 ,Beowulf vs. Ironman: Why You Love the Marvel Cinematic Universe,ENGL 142 Beowulf vs. Ironman: Why You Love the Marvel Cinematic Universe,3,L,CLAS ,TR,12:00-13:20  ,BALL  ,Full Term,01/11/2023-04/24/2023 ,"Morris, S  ",-,21 ,21 ,0 ,-,-,-,-,Closed ,COM2,-
+22518,ENGL 145,1 ,Creativity,ENGL 145 Creativity,3,L,CLAS ,TR,11:00-12:20  ,HV 004B ,Full Term,01/11/2023-04/24/2023 ,"Barnstone, T  ",-,17 ,20 ,-3 ,-,-,1,-,Closed ,COM3,-
+22371,ENGL 270,1 ,Transcultural Literature,ENGL 270 Transcultural Literature,3,L,CLAS ,TR,09:30-10:50  ,HV 004B ,Full Term,01/11/2023-04/24/2023 ,"Burton, J  ",-,25 ,20 ,5 ,-,-,0,-,Open ,"COM2,CUL6",-
+22376,ENGL 300,1 ,Junior Seminar,ENGL 300 Junior Seminar,3,L,CLAS ,TR,13:30-14:50  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Burton, J  ",-,20 ,14 ,6 ,-,-,0,-,Open ,-,-
+21977,ENGL 303,1 ,Advanced Poetry Writing,ENGL 303 Advanced Poetry Writing,3,L,CLAS ,MW,12:00-13:20  ,HV 003 ,Full Term,01/11/2023-04/24/2023 ,"Barnstone, T  ",-,15 ,13 ,2 ,-,-,0,-,Open ,COM3,-
+22286,ENGL 306,01 ,Creative Nonfiction: Narrative Journalism,ENGL 306 Creative Nonfiction: Narrative Journalism,3,L,CLAS ,MW,12:00-13:20  ,HV 004B ,Full Term,01/11/2023-04/24/2023 ,"Donnelly, J  ",-,21 ,22 ,-1 ,-,-,-,-,Closed ,COM3,-
+22287,ENGL 313,01 ,Editing and Publishing Emerging Media,ENGL 313 Editing and Publishing Emerging Media,3,L,CLAS ,TR,15:00-16:20  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Donnelly, J  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+22372,ENGL 324,1 ,Chaucer,ENGL 324 Chaucer,3,L,CLAS ,TR,09:30-10:50  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Morris, S  ",-,25 ,22 ,3 ,-,-,0,-,Open ,"COM2,CUL5",-
+22374,ENGL 336,1 ,Europe & The Novel in 19 Cent,ENGL 336 Europe & The Novel in 19 Cent,3,L,CLAS ,MWF,11:00-11:50  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Paddy, D  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,"COM2,CUL5",-
+22375,ENGL 341,1 ,"Graphic Literature: Novels, Memoirs and Poems","ENGL 341 Graphic Literature: Novels, Memoirs and Poems",3,L,CLAS ,MW,15:00-16:20  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Barnstone, T  ",-,25 ,18 ,7 ,-,-,0,-,Open ,"COM2,CUL4",-
+22493,ENST 242,1 ,Urban Ecosystem Ecology,ENST 242 Urban Ecosystem Ecology,4,L,CLAS ,MW,08:00-09:50  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Fissore, C  ",-,24 ,10 ,14 ,24 ,24 ,0,-,XL-Closed ,CON2,-
+22494,ENST 262,1 ,Environmental Policy,ENST 262 Environmental Policy,3,L,CLAS ,MW,15:00-16:20  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Hanlon, J  ",-,25 ,6 ,19 ,25 ,12 ,0,-,Open ,-,-
+22379,ENST 290,1 ,Asia and The Environment,ENST 290 Asia and The Environment,3,L,CLAS ,MW,15:00-16:20  ,PL 203 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, J  ",-,25 ,4 ,21 ,25 ,8 ,0,-,Open ,-,-
+22309,ENST 351,01 ,Cuban Revolution,ENST 351 Cuban Revolution,3,L,CLAS ,TR,11:00-12:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Ortega, J  ",-,15 ,11 ,4 ,15 ,12 ,-,-,Open ,CUL4,-
+22490,ENST 360,1 ,Indigenous Peoples Social Movements,ENST 360 Indigenous Peoples Social Movements,3,L,CLAS ,MW,12:00-13:20  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Overmyer-Velazquez, R  ",-,25 ,14 ,11 ,25 ,23 ,-,-,Open ,CUL3,-
+22495,ENST 371,1 ,Political Economy of Development,ENST 371 Political Economy of Development,3,L,CLAS ,TR,13:30-14:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Bezares Calderon, A  ",-,25 ,0 ,25 ,25 ,10 ,0,-,Open ,-,-
+22496,ENST 380,1 ,Sustainable Development and the Triple Bottom Line,ENST 380 Sustainable Development and the Triple Bottom Line,3,P,CLAS ,MW,12:00-13:20  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Sattari, S  ",-,25 ,4 ,21 ,25 ,18 ,-,-,Open ,-,-
+21936,ENVS 050,1 ,Environmental Science Colloquium,ENVS 050 Environmental Science Colloquium,1,P,CLAS ,R,16:30-17:30  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,24 ,13 ,11 ,-,-,0,-,Open ,-,-
+22454,ENVS 070,1 ,Practicing Urban Agriculture,ENVS 070 Practicing Urban Agriculture,1,L,CLAS ,R,09:00-09:50  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Fissore, C  ",-,18 ,15 ,3 ,-,-,0,-,Open ,-,-
+21238,ENVS 100,02 ,Introduction to Environmental Science,ENVS 100 Introduction to Environmental Science,4,L,CLAS ,MWF,09:00-09:50  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,24 ,23 ,1 ,-,-,0,-,Open ,-,-
+20457,ENVS 100L,02 ,Introduction to Environmental Science Lab,ENVS 100L Introduction to Environmental Science Lab,0,X,CLAS ,M,13:30-16:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,24 ,23 ,1 ,-,-,-,-,Open ,-,-
+22457,ENVS 242,1 ,Urban Ecosystem Ecology,ENVS 242 Urban Ecosystem Ecology,4,L,CLAS ,MW,08:00-09:50  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Fissore, C  ",-,24 ,14 ,10 ,24 ,24 ,1,-,XL-Closed ,CON2,-
+20095,ENVS 251,01 ,Ecology & Evolution of Organisms,ENVS 251 Ecology & Evolution of Organisms,4,L,CLAS ,TR,09:30-10:50  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,20 ,4 ,16 ,20 ,10 ,-,-,Open ,COM2,-
+20098,ENVS 251L,01 ,Ecology & Evolution of Organisms Lab,ENVS 251L Ecology & Evolution of Organisms Lab,0,X,CLAS ,T,13:30-16:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,20 ,4 ,16 ,20 ,10 ,-,-,Open ,-,-
+22460,ENVS 340,1 ,Polymers & Plastics,ENVS 340 Polymers & Plastics,4,L,CLAS ,MWF,10:00-10:50  ,SLC 508 ,Full Term,01/11/2023-04/24/2023 ,"Bauer, C  ",-,24 ,7 ,17 ,-,-,-,-,Open ,-,-
+22461,ENVS 340L,1 ,Polymers & Plastics Lab,ENVS 340L Polymers & Plastics Lab,0,X,CLAS ,R,13:30-16:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bauer, C  ",-,24 ,6 ,18 ,-,-,-,-,Open ,-,-
+22233,ENVS 355,01 ,Plant Biology,ENVS 355 Plant Biology,4,L,CLAS ,MWF,11:00-11:50  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,20 ,6 ,14 ,20 ,19 ,-,-,Open ,-,-
+22234,ENVS 355L,01 ,Plant Biology Lab,ENVS 355L Plant Biology Lab,0,X,CLAS ,W,13:30-16:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Bowen, A  ",-,20 ,6 ,14 ,20 ,19 ,0,-,Open ,-,-
+22455,ENVS 379,1 ,Conservation Biology,ENVS 379 Conservation Biology,4,L,CLAS ,WF,12:00-13:20  ,SLC 110 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,24 ,5 ,19 ,24 ,20 ,-,-,Open ,-,-
+22456,ENVS 379L,1 ,Conservation Biology Lab,ENVS 379L Conservation Biology Lab,0,X,CLAS ,F,13:30-16:20  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Mbora, D  ",-,24 ,5 ,19 ,24 ,20 ,-,-,Open ,-,-
+20302,ENVS 496,01 ,Senior Seminar,ENVS 496 Senior Seminar,2,P,CLAS ,W,19:00-21:00  ,SLC 108 ,Full Term,01/11/2023-04/24/2023 ,"Fissore, C  ",-,20 ,7 ,13 ,-,-,0,-,Open ,COM4,-
+22485,FILM 050,1 ,Practice Practicum,FILM 050 Practice Practicum,1,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Gonzalez, G  ",-,50 ,7 ,43 ,35 ,31 ,0,-,Open ,-,-
+22486,FILM 110,1 ,Introduction to Acting,FILM 110 Introduction to Acting,3,L,CLAS ,TR,13:30-14:50  ,SH 106 ,Full Term,01/11/2023-04/24/2023 ,"Liddicoat, K  ",-,20 ,2 ,18 ,20 ,19 ,0,-,Open ,COM3,-
+22224,FILM 170,01 ,Fundamentals of Cinema,FILM 170 Fundamentals of Cinema,3,L,CLAS ,TR,09:30-10:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"McCarthy, P  ",-,41 ,31 ,10 ,40 ,39 ,-,-,Open ,-,-
+22280,FILM 177,01 ,Franco-African Cinema & Literature,FILM 177 Franco-African Cinema & Literature,3,L,CLAS ,M,13:30-16:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,25 ,10 ,15 ,31 ,27 ,0,-,Open ,CUL1,-
+22435,FILM 270,1 ,Film Genre,FILM 270 Film Genre,3,L,CLAS ,TR,11:00-12:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"McCarthy, P  ",-,26 ,20 ,6 ,28 ,27 ,0,-,Open ,-,-
+22487,FILM 283,01 ,Cinema in Latin America,FILM 283 Cinema in Latin America,3,L,CLAS ,TR,15:00-16:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Herrera, L  ",-,10 ,10 ,0 ,30 ,24 ,0,-,Closed ,CUL3,-
+22436,FILM 420,1 ,Advanced Video Production,FILM 420 Advanced Video Production,4,L,CLAS ,TR,13:30-14:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"McCarthy, P  ",100,10 ,10 ,0 ,15 ,13 ,1,-,Closed ,-,-
+22298,FRCS 121,01 ,Elementary French II,FRCS 121 Elementary French II,4,L,CLAS ,MTWRF,11:00-11:50  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Wallis, A  ",13,25 ,0 ,25 ,25 ,2 ,0,-,Open ,CUL7,-
+22300,FRCS 177,01 ,Franco-African Cinema & Lit,FRCS 177 Franco-African Cinema & Lit,3,L,CLAS ,M,13:30-16:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,25 ,0 ,25 ,31 ,27 ,0,-,Open ,CUL1,-
+22299,FRCS 221,01 ,Intermediate French II,FRCS 221 Intermediate French II,3,L,CLAS ,MWF,10:00-10:50  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,25 ,0 ,25 ,25 ,10 ,0,-,Open ,CUL6,-
+20176,FREN 121,01 ,Elementary French II,FREN 121 Elementary French II,4,L,CLAS ,MTWRF,11:00-11:50  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Wallis, A  ",13,25 ,2 ,23 ,25 ,2 ,0,-,Open ,CUL7,-
+21749,FREN 177,01 ,Franco-African Cinema & Literature,FREN 177 Franco-African Cinema & Literature,3,L,CLAS ,M,13:30-16:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,25 ,5 ,20 ,31 ,27 ,0,-,Open ,CUL1,-
+20178,FREN 221,01 ,Intermediate French II,FREN 221 Intermediate French II,3,L,CLAS ,MWF,10:00-10:50  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,25 ,10 ,15 ,25 ,10 ,0,-,Open ,CUL6,-
+22381,FREN 315,1 ,French for Business & the Professions,FREN 315 French for Business & the Professions,3,L,CLAS ,MWF,09:00-09:50  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,25 ,14 ,11 ,-,-,0,-,Open ,CUL6,-
+21751,FREN 477,01 ,Franco-African Cinema & Literature,FREN 477 Franco-African Cinema & Literature,3,L,CLAS ,M,13:30-16:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,6 ,2 ,4 ,31 ,27 ,0,-,Open ,CUL1,-
+20303,FREN 499,01 ,Senior Paper & Presentation,FREN 499 Senior Paper & Presentation,0-1,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Chirol Hill, M  ",13,15 ,1 ,14 ,-,-,0,-,Open ,COM4,-
+22166,GCS 100,01 ,Introduction to Globalization,GCS 100 Introduction to Globalization,3,L,CLAS ,TR,11:00-12:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, J  ",-,35 ,17 ,18 ,35 ,33 ,0,-,Open ,CUL6,-
+21582,GCS 499,02 ,Global & Cultural Studies Senior Seminar,GCS 499 Global & Cultural Studies Senior Seminar,3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Berthel, K  ",-,15 ,3 ,12 ,-,-,0,-,Open ,COM4,-
+22445,GEN 205,1 ,Gender & Sexuality in US Poltc,GEN 205 Gender & Sexuality in US Poltc,3,L,CLAS ,TR,09:30-10:50  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Angevine, S  ",-,25 ,9 ,16 ,25 ,18 ,0,-,Open ,CUL4,-
+21045,GEN 250,01 ,Philosophy of Love and Human Sexuality,GEN 250 Philosophy of Love and Human Sexuality,3,L,CLAS ,TR,09:30-10:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Switzer, M  ",-,5 ,2 ,3 ,25 ,12 ,0,-,Open ,-,-
+22444,GEN 257,1 ,Black and Womanist Theology,GEN 257 Black and Womanist Theology,3,L,CLAS ,TR,13:30-14:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, R  ",-,20 ,1 ,19 ,20 ,6 ,0,-,Open ,CUL4,-
+22446,GEN 300,1 ,"Intersections: Race, Class, Gender","GEN 300 Intersections: Race, Class, Gender",3,L,CLAS ,MW,15:00-16:20  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,20 ,3 ,17 ,20 ,19 ,0,-,Open ,COM2,-
+21638,GEN 327,01 ,Sex and Gender in Anthropology,GEN 327 Sex and Gender in Anthropology,3,L,CLAS ,MW,15:00-16:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Kakaliouras, A  ",-,10 ,3 ,7 ,20 ,18 ,0,-,Open ,CUL6,-
+22308,GEN 351,01 ,Cuban Revolution,GEN 351 Cuban Revolution,3,L,CLAS ,TR,11:00-12:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Ortega, J  ",-,15 ,1 ,14 ,15 ,12 ,0,-,Open ,CUL4,-
+22443,GEN 364,1 ,Psychology of Women,GEN 364 Psychology of Women,3,L,CLAS ,TR,13:30-14:50  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Shaikh, A  ",-,24 ,0 ,24 ,24 ,20 ,0,-,Open ,CUL6,-
+22452,GEN 385,1 ,Feminist Philosophy,GEN 385 Feminist Philosophy,3,L,CLAS ,TR,09:30-10:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, R  ",-,20 ,8 ,12 ,-,-,0,-,Open ,-,-
+22168,HIST 201,01 ,Introduction to Modern European History,HIST 201 Introduction to Modern European History,3,L,CLAS ,MWF,10:00-10:50  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Sage, E  ",-,25 ,19 ,6 ,-,-,0,-,Open ,CUL5,-
+20100,HIST 206,01 ,United States to 1865,HIST 206 United States to 1865,3,L,CLAS ,MWF,11:00-11:50  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Shaler, A  ",-,25 ,21 ,4 ,-,-,0,-,Open ,CUL4,-
+22426,HIST 207,1 ,United States Since 1865,HIST 207 United States Since 1865,3,L,CLAS ,MWF,12:00-12:50  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Shaler, A  ",-,25 ,22 ,3 ,-,-,0,-,Open ,CUL4,-
+20924,HIST 220,01 ,East Asian History,HIST 220 East Asian History,3,L,CLAS ,TR,13:30-14:50  ,HV 004A ,Full Term,01/11/2023-04/24/2023 ,"Qin, L  ",-,25 ,24 ,1 ,-,-,0,-,Open ,CUL2,-
+22466,HIST 235,1 ,Middle East: Muhammad to Mongols,HIST 235 Middle East: Muhammad to Mongols,3,L,CLAS ,TR,11:00-12:20  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Hashmi, I  ",-,25 ,12 ,13 ,25 ,22 ,0,-,Open ,CUL1,-
+22423,HIST 246,1 ,Introduction to Modern Latin America,HIST 246 Introduction to Modern Latin America,3,L,CLAS ,MW,12:00-13:20  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Orozco, J  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,CUL3,-
+22210,HIST 280,02 ,History and Theory,HIST 280 History and Theory,3,L,CLAS ,MWF,13:30-14:20  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Sage, E  ",-,15 ,13 ,2 ,-,-,0,-,Open ,-,-
+22425,HIST 311,1 ,Native American History,HIST 311 Native American History,3,L,CLAS ,MW,15:00-16:20  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Shaler, A  ",-,15 ,10 ,5 ,-,-,0,-,Open ,CUL4,-
+21697,HIST 348,01 ,US/Mexico Border Studies,HIST 348 US/Mexico Border Studies,3,L,CLAS ,TR,13:30-14:50  ,HV 205 ,Full Term,01/11/2023-04/24/2023 ,"Orozco, J  ",-,15 ,12 ,3 ,15 ,13 ,0,-,Open ,CUL6,-
+20114,HIST 480,01 ,Capstone Seminar,HIST 480 Capstone Seminar,3,L,CLAS ,TR,09:30-10:50  ,HV 108 ,Full Term,01/11/2023-04/24/2023 ,"Orozco, J  ",-,15 ,5 ,10 ,-,-,0,-,Open ,-,-
+22382,INTD 014,1 ,Career Development and Connection: Juniors & Seniors,INTD 014 Career Development and Connection: Juniors & Seniors,1,P,CLAS ,R,11:00-11:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Aguilar-Tinajero, G  ",-,25 ,18 ,7 ,-,-,0,-,Open ,-,-
+22017,INTD 092,01 ,Foundations of Library Research,INTD 092 Foundations of Library Research,1,L,CLAS ,W,09:00-09:50  ,LIB  ,Full Term,01/11/2023-04/24/2023 ,"Khan, A  ",-,15 ,13 ,2 ,-,-,0,-,Open ,-,-
+20236,INTD 100,01 ,College Writing Seminar,INTD 100 College Writing Seminar,3,L,CLAS ,TR,13:30-14:50  ,-,Full Term,01/11/2023-04/24/2023 ,"Creley, S  ",-,0 ,0 ,0 ,-,-,0,-,Closed ,-,-
+21856,INTD 101,L2 ,Your Whittier College Exp,INTD 101 Your Whittier College Exp,1,L,CLAS ,-,-,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Gonzalez, G  ",-,15 ,0 ,15 ,-,-,0,-,Open ,-,-
+22383,INTD 192,1 ,Intermediate Library Research,INTD 192 Intermediate Library Research,1,P,CLAS ,W,10:00-10:50  ,LIB  ,Full Term,01/11/2023-04/24/2023 ,"Khan, A  ",-,16 ,15 ,1 ,-,-,-,-,Open ,-,-
+22504,INTD 279,1 ,Disasters,INTD 279 Disasters,3,L,CLAS ,TR,09:30-10:50  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Isovitsch, R  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,CON2,-
+20811,INTD 299,03 ,Internship,INTD 299 Internship,0-3,P,CLAS ,T,15:30-16:20  ,HV 005 ,Full Term,01/11/2023-04/24/2023 ,"Aguilar-Tinajero, G  ",-,20 ,22 ,-2 ,-,-,0,-,Closed ,-,IN 
+22517,INTD 370,1 ,Cardiovascular Health,INTD 370 Cardiovascular Health,4,L,CLAS ,MW,12:00-13:20  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Householder, M  ",-,12 ,10 ,2 ,24 ,22 ,0,-,Open ,CON2,-
+21139,INTD 380,01 ,International Programs,INTD 380 International Programs,12,X,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Chiapparine, A  ",25283,30 ,7 ,23 ,-,-,0,-,Open ,-,IN 
+20270,KNS 092,01 ,Field Work in Kinesiology & Nutrition Science,KNS 092 Field Work in Kinesiology & Nutrition Science,1,R,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,10 ,5 ,5 ,-,-,0,-,Open ,-,IN 
+20126,KNS 250,01 ,Applied Musculoskeletal Anatomy,KNS 250 Applied Musculoskeletal Anatomy,4,L,CLAS ,TR,09:30-10:50  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Householder, M  ",-,20 ,20 ,0 ,-,-,-,-,Closed ,-,-
+21351,KNS 250L,01 ,Appld Musculskltl Anatomy Lab,KNS 250L Appld Musculskltl Anatomy Lab,0,X,CLAS ,W,13:30-14:50  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Householder, M  ",-,10 ,10 ,0 ,-,-,0,-,Closed ,-,-
+21352,KNS 250L,02 ,Appld Musculskltl Anatomy Lab,KNS 250L Appld Musculskltl Anatomy Lab,0,X,CLAS ,W,15:00-16:20  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Householder, M  ",-,10 ,10 ,0 ,-,-,0,-,Closed ,-,-
+22467,KNS 288,1 ,Native American Sport,KNS 288 Native American Sport,3,L,CLAS ,TR,09:30-10:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Jensen, M  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,CUL4,-
+21701,KNS 307,01 ,Research Methods & Statistics,KNS 307 Research Methods & Statistics,4,L,CLAS ,TR,11:00-12:20  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,25 ,25 ,0 ,-,-,-,-,Closed ,COM1,-
+21702,KNS 307L,01 ,Research Methods Lab,KNS 307L Research Methods Lab,0,X,CLAS ,F,11:00-12:20  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+20128,KNS 311,01 ,Biomechanics,KNS 311 Biomechanics,4,L,CLAS ,TR,09:30-10:50  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,24 ,16 ,8 ,-,-,-,-,Open ,-,-
+20134,KNS 311L,01 ,Biomechanics Lab,KNS 311L Biomechanics Lab,0,X,CLAS ,W,15:00-16:20  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,12 ,3 ,9 ,-,-,0,-,Open ,-,-
+20135,KNS 311L,02 ,Biomechanics Lab,KNS 311L Biomechanics Lab,0,X,CLAS ,W,13:30-14:50  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,13 ,13 ,0 ,-,-,0,-,Closed ,-,-
+22384,KNS 313,1 ,Exercise Physiology,KNS 313 Exercise Physiology,4,L,CLAS ,TR,08:00-09:20  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,20 ,20 ,0 ,-,-,0,-,Closed ,-,-
+22385,KNS 313,2 ,Exercise Physiology,KNS 313 Exercise Physiology,4,L,CLAS ,MWF,08:00-08:50  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,21 ,21 ,0 ,-,-,0,-,Closed ,-,-
+22386,KNS 313L,1 ,Exercise Physiology Lab,KNS 313L Exercise Physiology Lab,0,X,CLAS ,M,13:30-14:50  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,10 ,10 ,0 ,-,-,0,-,Closed ,-,-
+22387,KNS 313L,2 ,Exercise Physiology Lab,KNS 313L Exercise Physiology Lab,0,X,CLAS ,M,15:00-16:20  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,10 ,10 ,0 ,-,-,0,-,Closed ,-,-
+22388,KNS 313L,3 ,Exercise Physiology Lab,KNS 313L Exercise Physiology Lab,0,X,CLAS ,T,13:30-14:50  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,10 ,10 ,0 ,-,-,0,-,Closed ,-,-
+22389,KNS 313L,4 ,Exercise Physiology Lab,KNS 313L Exercise Physiology Lab,0,X,CLAS ,T,15:00-16:20  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,11 ,11 ,0 ,-,-,0,-,Closed ,-,-
+20131,KNS 340,01 ,History & Philosophy of Sport & Leisure,KNS 340 History & Philosophy of Sport & Leisure,3,L,CLAS ,MWF,09:00-09:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Jensen, M  ",-,25 ,26 ,-1 ,-,-,0,-,Closed ,-,-
+20826,KNS 370,01 ,Cardiovascular Health,KNS 370 Cardiovascular Health,4,L,CLAS ,MW,12:00-13:20  ,SLC 330 ,Full Term,01/11/2023-04/24/2023 ,"Householder, M  ",-,12 ,12 ,0 ,24 ,22 ,-,-,Closed ,CON2,-
+20132,KNS 382,01 ,Social Issues in Sport,KNS 382 Social Issues in Sport,3,L,CLAS ,TR,13:30-14:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Barlow, K  ",-,26 ,26 ,0 ,-,-,0,-,Closed ,CUL4,-
+21077,KNS 440,01 ,Motor Learning & Control,KNS 440 Motor Learning & Control,4,L,CLAS ,TR,08:00-09:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Barlow, K  ",-,20 ,13 ,7 ,-,-,-,-,Open ,-,-
+21078,KNS 440L,01 ,Motor Learning & Control Lab,KNS 440L Motor Learning & Control Lab,0,X,CLAS ,M,13:30-14:50  ,ONLINE  ,Full Term,01/11/2023-04/23/2023 ,"Barlow, K  ",-,10 ,8 ,2 ,-,-,0,-,Open ,-,-
+21079,KNS 440L,02 ,Motor Learning & Control Lab,KNS 440L Motor Learning & Control Lab,0,X,CLAS ,M,15:00-16:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Barlow, K  ",-,10 ,5 ,5 ,-,-,0,-,Open ,-,-
+20133,KNS 489,01 ,Seminar in Kinesiology & Nutrition,KNS 489 Seminar in Kinesiology & Nutrition,2,L,CLAS ,F,12:00-13:20  ,SLC 207 ,Full Term,01/11/2023-04/24/2023 ,"Van Oosbree, T  ",-,10 ,5 ,5 ,-,-,0,-,Open ,COM4,-
+21474,KNS 489,02 ,Seminar in Kinesiology & Nutrition,KNS 489 Seminar in Kinesiology & Nutrition,2,L,CLAS ,F,12:00-13:20  ,SLC 201 ,Full Term,01/11/2023-04/24/2023 ,"Householder, M  ",-,6 ,6 ,0 ,-,-,0,-,Closed ,COM4,-
+21476,KNS 489,04 ,Seminar in Kinesiology & Nutrition,KNS 489 Seminar in Kinesiology & Nutrition,2,L,CLAS ,F,12:30-13:20  ,SLC 100 ,Full Term,01/11/2023-04/24/2023 ,"Choe, K  ",-,5 ,3 ,2 ,-,-,0,-,Open ,COM4,-
+22270,LAT 221,01 ,Intermediate Spanish II,LAT 221 Intermediate Spanish II,3,L,CLAS ,MWF,10:00-10:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",13,25 ,0 ,25 ,25 ,17 ,-,-,Open ,CUL6,-
+22271,LAT 225,01 ,Latino Lit. & Cultural Prod.,LAT 225 Latino Lit. & Cultural Prod.,3,L,CLAS ,MW,12:00-13:20  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",13,25 ,11 ,14 ,25 ,19 ,-,-,Open ,CUL6,-
+22304,LAT 348,01 ,US/Mexico Border Studies,LAT 348 US/Mexico Border Studies,3,L,CLAS ,TR,13:30-14:50  ,HV 003 ,Full Term,01/11/2023-04/23/2023 ,"Orozco, J  ",-,15 ,1 ,14 ,15 ,13 ,-,-,Open ,CUL6,-
+22480,LAT 350,1 ,Latin American Liberation Theologies,LAT 350 Latin American Liberation Theologies,3,L,CLAS ,MW,13:30-14:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, R  ",-,20 ,11 ,9 ,20 ,11 ,0,-,Open ,CUL3,-
+22267,LAT 371,01 ,Modern and Cont Latinx Vis Cul,LAT 371 Modern and Cont Latinx Vis Cul,3,L,CLAS ,MW,15:00-16:20  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Valencia, J  ",-,20 ,2 ,18 ,20 ,19 ,-,-,Open ,CUL3,-
+21887,MATH 074,1 ,Transition to College Mathematics,MATH 074 Transition to College Mathematics,1,P,CLAS ,MWF,09:00-09:50  ,-,Full Term,01/11/2023-04/24/2023 ,"Jordan, R  ",-,24 ,16 ,8 ,-,-,0,-,Open ,-,-
+20139,MATH 076,01 ,College Algebra,MATH 076 College Algebra,3,L,CLAS ,MWF,13:30-14:20  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Coya, B  ",-,24 ,12 ,12 ,-,-,0,-,Open ,-,-
+21081,MATH 076,02 ,College Algebra,MATH 076 College Algebra,3,L,CLAS ,MWF,10:00-10:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Wong, G  ",-,24 ,15 ,9 ,-,-,0,-,Open ,-,-
+21213,MATH 076,03 ,College Algebra,MATH 076 College Algebra,3,L,CLAS ,MWF,11:00-11:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Wong, G  ",-,24 ,23 ,1 ,-,-,0,-,Open ,-,-
+20141,MATH 079,01 ,Quantitative Reasoning,MATH 079 Quantitative Reasoning,3,L,CLAS ,TR,13:30-14:50  ,SLC 508 ,Full Term,01/11/2023-04/24/2023 ,"Lutgen, J  ",-,24 ,11 ,13 ,-,-,0,-,Open ,COM1,-
+20146,MATH 080,1 ,Elementary Statistics,MATH 080 Elementary Statistics,3,L,CLAS ,TR,09:30-10:50  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Kozek, M  ",-,24 ,23 ,1 ,-,-,0,-,Open ,COM1,-
+20148,MATH 080,2 ,Elementary Statistics,MATH 080 Elementary Statistics,3,L,CLAS ,TR,11:00-12:20  ,SLC 416 ,Full Term,01/11/2023-04/24/2023 ,"Kozek, M  ",-,24 ,22 ,2 ,-,-,0,-,Open ,COM1,-
+20149,MATH 080,3 ,Elementary Statistics,MATH 080 Elementary Statistics,3,L,CLAS ,MW,12:00-13:20  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Lopez, R  ",-,24 ,25 ,-1 ,-,-,0,-,Closed ,COM1,-
+20774,MATH 080,4 ,Elementary Statistics,MATH 080 Elementary Statistics,3,L,CLAS ,TR,15:00-16:20  ,SLC 418 ,Full Term,01/11/2023-04/24/2023 ,"Lopez, R  ",-,24 ,13 ,11 ,-,-,0,-,Open ,COM1,-
+20151,MATH 085,01 ,Precalculus Mathematics,MATH 085 Precalculus Mathematics,4,L,CLAS ,MTWF,10:00-10:50  ,SLC 418 ,Full Term,01/11/2023-04/24/2023 ,"Riskin, A  ",-,24 ,12 ,12 ,-,-,0,-,Open ,COM1,-
+20153,MATH 085,02 ,Precalculus Mathematics,MATH 085 Precalculus Mathematics,4,L,CLAS ,MTWF,11:00-11:50  ,SLC 418 ,Full Term,01/11/2023-04/24/2023 ,"Riskin, A  ",-,24 ,20 ,4 ,-,-,0,-,Open ,COM1,-
+21149,MATH 085,03 ,Precalculus Mathematics,MATH 085 Precalculus Mathematics,4,L,CLAS ,MTWR,13:30-14:20  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Lopez, R  ",-,24 ,17 ,7 ,-,-,0,-,Open ,COM1,-
+21790,MATH 141,01 ,Calculus & Analytical Geometry I,MATH 141 Calculus & Analytical Geometry I,4,L,CLAS ,MTWF,10:00-10:50  ,SLC 228 ,Full Term,01/11/2023-04/24/2023 ,"Coya, B  ",-,24 ,17 ,7 ,-,-,0,-,Open ,COM1,-
+21793,MATH 142,02 ,Calculus & Analytical Geometry II,MATH 142 Calculus & Analytical Geometry II,4,L,CLAS ,MWRF,11:00-11:50  ,SLC 228 ,Full Term,01/11/2023-04/24/2023 ,"Jordan, R  ",-,24 ,21 ,3 ,-,-,0,-,Open ,COM1,-
+21758,MATH 220,01 ,Discrete Mathematics,MATH 220 Discrete Mathematics,3,L,CLAS ,MWF,10:00-10:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Jordan, R  ",-,24 ,20 ,4 ,-,-,0,-,Open ,COM1,-
+20154,MATH 242,01 ,Introduction to Applied Elementary Linear Algebra,MATH 242 Introduction to Applied Elementary Linear Algebra,3,L,CLAS ,MWF,09:00-09:50  ,SLC 418 ,Full Term,01/11/2023-04/24/2023 ,"Riskin, A  ",-,18 ,18 ,0 ,-,-,0,-,Closed ,-,-
+22397,MATH 305,1 ,Number Theory,MATH 305 Number Theory,3,L,CLAS ,MWF,11:00-11:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Kozek, M  ",-,20 ,8 ,12 ,-,-,0,-,Open ,-,-
+22398,MATH 344,1 ,Complex Variables,MATH 344 Complex Variables,3,L,CLAS ,MWF,09:00-09:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Coya, B  ",-,20 ,6 ,14 ,-,-,0,-,Open ,-,-
+21217,MATH 345A,01 ,Differential Equations I,MATH 345A Differential Equations I,3,L,CLAS ,WF,13:30-14:50  ,SLC 313 ,Full Term,01/11/2023-04/24/2023 ,"Park, F  ",-,20 ,9 ,11 ,-,-,0,-,Open ,-,-
+22522,MATH 481,1 ,Modern Algebra II,MATH 481 Modern Algebra II,3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Smith, F  ",-,5 ,1 ,4 ,-,-,0,-,Open ,-,IN 
+21484,MUS 014,01 ,Voice Class for Beginners,MUS 014 Voice Class for Beginners,1,L,CLAS ,R,13:30-14:50  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Landis, M  ",-,15 ,6 ,9 ,-,-,0,-,Open ,-,-
+20106,MUS 018,01 ,College Choir,MUS 018 College Choir,0-1,L,CLAS ,MWF,16:30-17:30  ,AR  ,Full Term,01/11/2023-04/24/2023 ,"Grabarchuk, A  ",35,75 ,28 ,47 ,-,-,0,-,Open ,COM3,-
+20108,MUS 051,01 ,Chamber Singers/Bella Voce,MUS 051 Chamber Singers/Bella Voce,0-1,L,CLAS ,W,17:30-18:30  ,-,Full Term,01/11/2023-04/24/2023 ,"Grabarchuk, A  ",-,15 ,10 ,5 ,-,-,0,-,Open ,COM3,-
+20109,MUS 051,04 ,Chamber Music: Winds/Brass,MUS 051 Chamber Music: Winds/Brass,0-1,L,CLAS ,W,16:30-18:30  ,CHAP  ,Full Term,01/11/2023-04/24/2023 ,"Muller, D  ",-,100 ,8 ,92 ,-,-,0,-,Open ,COM3,-
+20304,MUS 051,02 ,Chamber Music: Jazz/Blues Ense,MUS 051 Chamber Music: Jazz/Blues Ense,0-1,L,CLAS ,R,17:30-19:00  ,AR  ,Full Term,01/11/2023-04/24/2023 ,"Arellano Jr., J  ",-,100 ,13 ,87 ,-,-,0,-,Open ,COM3,-
+20318,MUS 051,05 ,Chamber Music: String Ensemble,MUS 051 Chamber Music: String Ensemble,0-1,L,CLAS ,M,19:00-21:00  ,AR  ,Full Term,01/11/2023-04/24/2023 ,"Ho, L  ",-,100 ,4 ,96 ,-,-,0,-,Open ,COM3,-
+21025,MUS 051,06 ,Chamber Music: Handbells,MUS 051 Chamber Music: Handbells,0-1,L,CLAS ,T,16:30-18:30  ,AR  ,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,15 ,6 ,9 ,-,-,0,-,Open ,COM3,-
+22283,MUS 070,01 ,Introduction to Music Theory & Musicianship,MUS 070 Introduction to Music Theory & Musicianship,3,L,CLAS ,TR,11:00-12:20  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Muller, D  ",-,20 ,7 ,13 ,-,-,-,-,Open ,-,-
+22180,MUS 079,01 ,The Life and Works of JS Bach,MUS 079 The Life and Works of JS Bach,3,L,CLAS ,TR,13:30-14:50  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Grabarchuk, A  ",-,24 ,16 ,8 ,-,-,0,-,Open ,CUL5,-
+20190,MUS 100H,01 ,Harmony I,MUS 100H Harmony I,3,L,CLAS ,MWF,11:00-11:50  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,24 ,3 ,21 ,-,-,0,-,Open ,-,-
+20192,MUS 100M,01 ,Musicianship I,MUS 100M Musicianship I,1,L,CLAS ,TR,11:00-12:20  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,24 ,3 ,21 ,-,-,0,-,Open ,-,-
+21782,MUS 110,01 ,Piano Class for Beginners,MUS 110 Piano Class for Beginners,1,L,CLAS ,W,15:00-16:20  ,MB 108 ,Full Term,01/11/2023-04/24/2023 ,"Lee, H  ",-,10 ,8 ,2 ,-,-,0,-,Open ,-,-
+21543,MUS 111,01 ,Digital Music Notation,MUS 111 Digital Music Notation,2,L,CLAS ,TR,13:30-14:50  ,MB 108 ,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",50,14 ,6 ,8 ,-,-,0,-,Open ,-,-
+20115,MUS 198,01 ,Priv Inst - Trap Set,MUS 198 Priv Inst - Trap Set,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Barrientos, V  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20116,MUS 198,02 ,Priv Inst - Trumpet,MUS 198 Priv Inst - Trumpet,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ford, J  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+20119,MUS 198,03 ,Priv Inst - Bass Acoustic,MUS 198 Priv Inst - Bass Acoustic,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Black, D  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+20120,MUS 198,04 ,Priv Inst - Piano,MUS 198 Priv Inst - Piano,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,3 ,27 ,-,-,0,-,Open ,-,IN 
+20122,MUS 198,05 ,Priv Inst - Percussion,MUS 198 Priv Inst - Percussion,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Dimond, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20125,MUS 198,07 ,Priv Inst - Viola,MUS 198 Priv Inst - Viola,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ho, L  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20127,MUS 198,08 ,Priv Inst - Violin,MUS 198 Priv Inst - Violin,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ho, L  ",-,30 ,2 ,28 ,-,-,0,-,Open ,-,IN 
+20129,MUS 198,09 ,Priv Inst - Composition,MUS 198 Priv Inst - Composition,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,3 ,27 ,-,-,0,-,Open ,-,IN 
+20147,MUS 198,11 ,Priv Inst - Bass Electric,MUS 198 Priv Inst - Bass Electric,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20150,MUS 198,12 ,Priv Inst - Bass Jazz,MUS 198 Priv Inst - Bass Jazz,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20152,MUS 198,13 ,Priv Inst - Bassoon,MUS 198 Priv Inst - Bassoon,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Muller, D  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20156,MUS 198,14 ,Priv Inst - Cello,MUS 198 Priv Inst - Cello,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20158,MUS 198,15 ,Priv Inst - Clarinet,MUS 198 Priv Inst - Clarinet,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+20163,MUS 198,16 ,Priv Inst - Flute,MUS 198 Priv Inst - Flute,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Lozano, D  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+20166,MUS 198,17 ,Priv Inst - Guitar,MUS 198 Priv Inst - Guitar,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Barany, B  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+20167,MUS 198,18 ,Priv Inst - Oboe,MUS 198 Priv Inst - Oboe,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20169,MUS 198,19 ,Priv Inst - Organ,MUS 198 Priv Inst - Organ,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+20172,MUS 198,20 ,Priv Inst - Sax,MUS 198 Priv Inst - Sax,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20174,MUS 198,21 ,Priv Inst - Sax Jazz,MUS 198 Priv Inst - Sax Jazz,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20175,MUS 198,22 ,Priv Inst - Trombone,MUS 198 Priv Inst - Trombone,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+20179,MUS 198,23 ,Priv Inst - Voice,MUS 198 Priv Inst - Voice,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Landis, M  ",-,30 ,12 ,18 ,-,-,0,-,Open ,-,IN 
+21207,MUS 198,06 ,Priv Inst - Recording Tech.,MUS 198 Priv Inst - Recording Tech.,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,2 ,28 ,-,-,0,-,Open ,-,IN 
+21799,MUS 198,10 ,Priv Inst - Improvisation,MUS 198 Priv Inst - Improvisation,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Ford, J  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+21850,MUS 198,24 ,Priv Inst - French Horn,MUS 198 Priv Inst - French Horn,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+22102,MUS 198,25 ,Priv Inst - Voice,MUS 198 Priv Inst - Voice,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Grabarchuk, A  ",-,30 ,1 ,29 ,-,-,0,-,Open ,-,IN 
+22103,MUS 198,26 ,Priv Inst - Harpsichord,MUS 198 Priv Inst - Harpsichord,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,0 ,30 ,-,-,0,-,Open ,-,IN 
+22394,MUS 198,27 ,Priv Inst - Piano,MUS 198 Priv Inst - Piano,0-2,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,30 ,6 ,24 ,-,-,0,-,Open ,-,IN 
+22395,MUS 204,1 ,Music History II,MUS 204 Music History II,3,L,CLAS ,TR,09:30-10:50  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Muller, D  ",-,20 ,12 ,8 ,-,-,0,-,Open ,-,-
+21545,MUS 206,01 ,Music in Film,MUS 206 Music in Film,3,L,CLAS ,MW,12:00-13:20  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Grabarchuk, A  ",-,24 ,22 ,2 ,-,-,0,-,Open ,CUL4,-
+22396,MUS 310,1 ,Advanced Audio Recording,MUS 310 Advanced Audio Recording,2,L,CLAS ,T,19:00-21:50  ,MB 110 ,Full Term,01/11/2023-04/24/2023 ,"Mejia, C  ",50,10 ,4 ,6 ,-,-,0,-,Open ,-,-
+21021,MUS 400B,01 ,Senior Seminar in Music,MUS 400B Senior Seminar in Music,1,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Grabarchuk, A  ",-,10 ,2 ,8 ,-,-,0,-,Open ,COM4,-
+22497,MUS 400B,2 ,Senior Seminar in Music,MUS 400B Senior Seminar in Music,1,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"LeVelle, T  ",-,10 ,1 ,9 ,-,-,0,-,Open ,COM4,-
+22498,MUS 400B,3 ,Senior Seminar in Music,MUS 400B Senior Seminar in Music,1,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Muller, D  ",-,10 ,2 ,8 ,-,-,-,-,Open ,COM4,-
+21488,PHIL 105,02 ,Introduction to Ethics,PHIL 105 Introduction to Ethics,3,L,CLAS ,MWF,10:00-10:50  ,BALL  ,Full Term,01/11/2023-04/24/2023 ,"Cosand, J  ",-,25 ,22 ,3 ,-,-,0,-,Open ,-,-
+22515,PHIL 105,2 ,Introduction to Ethics,PHIL 105 Introduction to Ethics,3,L,CLAS ,MWF,09:00-09:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Cosand, J  ",-,25 ,19 ,6 ,-,-,0,-,Open ,-,-
+21043,PHIL 250,01 ,Philosophy of Love and Human Sexuality,PHIL 250 Philosophy of Love and Human Sexuality,3,L,CLAS ,TR,09:30-10:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Switzer, M  ",-,25 ,10 ,15 ,25 ,12 ,0,-,Open ,-,-
+22399,PHIL 270,1 ,History of Social Thought,PHIL 270 History of Social Thought,3,L,CLAS ,TR,11:00-12:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Switzer, M  ",-,18 ,14 ,4 ,-,-,0,-,Open ,COM2,-
+21999,PHIL 302,1 ,Development of Buddhist Philosophical Thought,PHIL 302 Development of Buddhist Philosophical Thought,3,L,CLAS ,MWF,13:30-14:20  ,BALL  ,Full Term,01/11/2023-04/24/2023 ,"Kjellberg, P  ",-,25 ,12 ,13 ,-,-,0,-,Open ,CUL2,-
+22000,PHIL 315,1 ,Modern Philosophy,PHIL 315 Modern Philosophy,3,L,CLAS ,MWF,11:00-11:50  ,BALL  ,Full Term,01/11/2023-04/24/2023 ,"Kjellberg, P  ",-,25 ,17 ,8 ,-,-,0,-,Open ,CUL5,-
+22400,PHIL 340,1 ,Contemporary Social Philosophy,PHIL 340 Contemporary Social Philosophy,3,L,CLAS ,TR,13:30-14:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Switzer, M  ",-,15 ,3 ,12 ,-,-,0,-,Open ,CUL6,-
+20677,PHYS 101,01 ,"Astronomy of Stars, Galaxies and the Universe","PHYS 101 Astronomy of Stars, Galaxies and the Universe",3,L,CLAS ,MW,15:00-16:20  ,SLC 232 ,Full Term,01/11/2023-04/24/2023 ,"Piner, G  ",30,24 ,23 ,1 ,-,-,0,-,Open ,-,-
+22401,PHYS 101,2 ,"Astronomy of Stars, Galaxies and the Universe","PHYS 101 Astronomy of Stars, Galaxies and the Universe",3,L,CLAS ,TR,15:00-16:20  ,SLC 232 ,Full Term,01/11/2023-04/24/2023 ,"Piner, G  ",30,24 ,23 ,1 ,-,-,0,-,Open ,-,-
+22053,PHYS 108,01 ,Technological & Societal Chg,PHYS 108 Technological & Societal Chg,4,L,CLAS ,MW,19:00-20:50  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Camparo, J  ",-,30 ,14 ,16 ,-,-,0,-,Open ,CON2,-
+20201,PHYS 135B,01 ,"Algebra-based Physics II (Electricity, Magnetism and Modern Physics)","PHYS 135B Algebra-based Physics II (Electricity, Magnetism and Modern Physics)",4,L,CLAS ,MW,08:50-10:50  ,SLC 232 ,Full Term,01/11/2023-04/24/2023 ,"Zorba, S  ",30,24 ,12 ,12 ,-,-,0,-,Open ,-,-
+20518,PHYS 135B,02 ,"Algebra-based Physics II (Electricity, Magnetism and Modern Physics)","PHYS 135B Algebra-based Physics II (Electricity, Magnetism and Modern Physics)",4,L,CLAS ,TR,08:50-10:50  ,SLC 232 ,Full Term,01/11/2023-04/24/2023 ,"Zorba, S  ",30,24 ,11 ,13 ,-,-,0,-,Open ,-,-
+20199,PHYS 180,01 ,Calculus-Based Phys II (EM),PHYS 180 Calculus-Based Phys II (EM),4,L,CLAS ,MWF,13:30-15:00  ,SLC 228 ,Full Term,01/11/2023-04/24/2023 ,"Lagan, S  ",30,24 ,18 ,6 ,-,-,0,-,Open ,COM1,-
+22403,PHYS 315,1 ,Statistical Physics,PHYS 315 Statistical Physics,3,L,CLAS ,TR,13:30-14:50  ,SLC 228 ,Full Term,01/11/2023-04/24/2023 ,"Lagan, S  ",-,24 ,2 ,22 ,-,-,0,-,Open ,-,-
+22404,PHYS 360,1 ,Astrophysics,PHYS 360 Astrophysics,3,L,CLAS ,MW,12:00-13:20  ,SLC 232 ,Full Term,01/11/2023-04/24/2023 ,"Piner, G  ",-,24 ,8 ,16 ,-,-,0,-,Open ,-,-
+22405,PHYS 380,1 ,Experimental Physics,PHYS 380 Experimental Physics,3,L,CLAS ,MW,15:00-16:20  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Zorba, S  ",40,16 ,6 ,10 ,-,-,0,-,Open ,-,-
+21960,PHYS 499,1 ,Senior Seminar,PHYS 499 Senior Seminar,2,L,CLAS ,TR,15:30-16:20  ,SLC 228 ,Full Term,01/11/2023-04/24/2023 ,"Zorba, S  ",-,12 ,5 ,7 ,-,-,0,-,Open ,COM4,-
+20203,PLSC 028,01 ,Model UN Conference,PLSC 028 Model UN Conference,1,L,CLAS ,T,19:00-21:00  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"McBride, M  ",-,30 ,16 ,14 ,-,-,0,-,Open ,-,-
+21188,PLSC 110,01 ,American Government & Politics,PLSC 110 American Government & Politics,3,L,CLAS ,MW,12:00-13:20  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Hanlon, J  ",-,30 ,19 ,11 ,-,-,0,-,Open ,CUL4,-
+20206,PLSC 140,01 ,Comparative Politics,PLSC 140 Comparative Politics,3,L,CLAS ,TR,09:30-10:50  ,DH 004 ,Full Term,01/11/2023-04/24/2023 ,"Norden, D  ",-,25 ,19 ,6 ,-,-,0,-,Open ,CUL6,-
+22407,PLSC 202,1 ,Presidency and Congress,PLSC 202 Presidency and Congress,3,L,CLAS ,MW,08:30-09:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Cogan, N  ",-,25 ,24 ,1 ,-,-,0,-,Open ,-,-
+22408,PLSC 203,1 ,Race & Ethnicity in American Politics,PLSC 203 Race & Ethnicity in American Politics,3,L,CLAS ,TR,15:00-16:20  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Angevine, S  ",-,25 ,19 ,6 ,-,-,0,-,Open ,CUL4,-
+22409,PLSC 205,1 ,Gender & Sexuality in US Polit,PLSC 205 Gender & Sexuality in US Polit,3,L,CLAS ,TR,09:30-10:50  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Angevine, S  ",-,25 ,9 ,16 ,25 ,18 ,0,-,Open ,CUL4,-
+22295,PLSC 220,01 ,International Relations,PLSC 220 International Relations,3,L,CLAS ,MWF,10:00-10:50  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"McBride, M  ",-,25 ,21 ,4 ,-,-,-,-,Open ,CUL6,-
+20210,PLSC 228,01 ,International Organizations,PLSC 228 International Organizations,3,L,CLAS ,TR,08:00-09:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"McBride, M  ",-,30 ,13 ,17 ,-,-,0,-,Open ,CUL6,-
+22056,PLSC 262,01 ,Environmental Policy,PLSC 262 Environmental Policy,3,L,CLAS ,MW,15:00-16:20  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Hanlon, J  ",-,25 ,6 ,19 ,25 ,12 ,0,-,Open ,-,-
+22219,PLSC 321,01 ,Political Economy of Development,PLSC 321 Political Economy of Development,3,L,CLAS ,TR,13:30-14:50  ,SLC 507 ,Full Term,01/11/2023-04/24/2023 ,"Bezares Calderon, A  ",-,25 ,1 ,24 ,25 ,10 ,0,-,Open ,-,-
+22057,PLSC 360,01 ,The Policy Process,PLSC 360 The Policy Process,3,L,CLAS ,MWF,10:00-10:50  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Hanlon, J  ",-,25 ,8 ,17 ,-,-,0,-,Open ,-,-
+22188,PLSC 372,01 ,American Constitutional Law,PLSC 372 American Constitutional Law,3,L,CLAS ,MW,12:00-13:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Cogan, N  ",-,17 ,14 ,3 ,-,-,0,-,Open ,-,-
+22411,PLSC 376,1 ,Law and the Courts,PLSC 376 Law and the Courts,4,L,CLAS ,MW,15:00-16:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Cogan, N  ",-,17 ,10 ,7 ,-,-,0,-,Open ,-,-
+20328,PLSC 380,01 ,Normative Political Theory,PLSC 380 Normative Political Theory,3,L,CLAS ,TR,09:30-10:50  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"McBride, M  ",-,27 ,17 ,10 ,-,-,0,-,Open ,CUL5,-
+21935,PLSC 400,1 ,Seminar in American Politics,PLSC 400 Seminar in American Politics,3,L,CLAS ,TR,13:30-14:50  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Angevine, S  ",-,15 ,2 ,13 ,-,-,0,-,Open ,-,IN 
+20243,PSYC 100,01 ,Introductory Psychology,PSYC 100 Introductory Psychology,3,L,CLAS ,TR,09:30-10:50  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Hill, C  ",-,35 ,35 ,0 ,-,-,0,-,Closed ,-,-
+21603,PSYC 100,02 ,Introductory Psychology,PSYC 100 Introductory Psychology,3,L,CLAS ,TR,13:30-14:50  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Hill, C  ",-,36 ,36 ,0 ,-,-,-,-,Closed ,-,-
+22049,PSYC 143,01 ,Life Span Development,PSYC 143 Life Span Development,3,L,CLAS ,TR,09:30-10:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Kaatz, M  ",-,27 ,28 ,-1 ,-,-,-,-,Closed ,-,-
+20245,PSYC 214,02 ,Statistics,PSYC 214 Statistics,3,L,CLAS ,MWF,11:00-11:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,25 ,21 ,4 ,25 ,25 ,0,-,XL-Closed ,COM1,-
+20256,PSYC 214L,02 ,Statistics - SPSS,PSYC 214L Statistics - SPSS,1,L,CLAS ,F,12:00-12:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,25 ,22 ,3 ,25 ,26 ,-,-,XL-Closed ,-,-
+22215,PSYC 222,02 ,Biological Bases of Behavior,PSYC 222 Biological Bases of Behavior,3,L,CLAS ,TR,13:30-14:50  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Kaatz, M  ",-,27 ,25 ,2 ,-,-,-,-,Open ,-,-
+20248,PSYC 242,01 ,Child Psychology,PSYC 242 Child Psychology,3,L,CLAS ,MW,12:00-13:20  ,SLC 418 ,Full Term,01/11/2023-04/24/2023 ,"Camparo, L  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,-,-
+22413,PSYC 285,1 ,Forensic Psychology,PSYC 285 Forensic Psychology,3,L,CLAS ,TR,15:00-16:20  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Kaatz, M  ",-,27 ,28 ,-1 ,-,-,-,-,Closed ,-,-
+22190,PSYC 344,01 ,Psychology of Adolescence,PSYC 344 Psychology of Adolescence,3,L,CLAS ,MW,15:00-16:20  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Camparo, L  ",-,25 ,22 ,3 ,-,-,0,-,Open ,-,-
+22414,PSYC 345,1 ,Developmental Research,PSYC 345 Developmental Research,4,L,CLAS ,TR,09:30-10:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Camparo, L  ",-,15 ,15 ,0 ,-,-,0,-,Closed ,-,-
+22415,PSYC 345L,1 ,Developmental Research Lab,PSYC 345L Developmental Research Lab,0,X,CLAS ,TR,11:00-12:20  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Camparo, L  ",-,15 ,15 ,0 ,-,-,-,-,Closed ,-,-
+21502,PSYC 354,01 ,Diverse Identities,PSYC 354 Diverse Identities,3,L,CLAS ,MWF,13:30-14:20  ,SLC 204 ,Full Term,01/11/2023-04/24/2023 ,"Hill, C  ",-,25 ,24 ,1 ,-,-,0,-,Open ,CUL6,-
+22416,PSYC 362,1 ,Psychology of Personality,PSYC 362 Psychology of Personality,3,L,CLAS ,TR,15:00-16:20  ,SLC 311 ,Full Term,01/11/2023-04/24/2023 ,"Pint, P  ",-,25 ,22 ,3 ,-,-,0,-,Open ,-,-
+22417,PSYC 364,1 ,Psychology of Women,PSYC 364 Psychology of Women,3,L,CLAS ,TR,13:30-14:50  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Shaikh, A  ",-,24 ,20 ,4 ,24 ,20 ,0,-,Open ,CUL6,-
+21931,PSYC 372,1 ,Abnormal Psychology,PSYC 372 Abnormal Psychology,3,L,CLAS ,TR,11:00-12:20  ,SLC 309 ,Full Term,01/11/2023-04/24/2023 ,"Shaikh, A  ",-,24 ,22 ,2 ,-,-,0,-,Open ,-,-
+22191,PSYC 376,01 ,Clinical Communication,PSYC 376 Clinical Communication,4,L,CLAS ,MWF,09:00-09:50  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Shaikh, A  ",-,18 ,18 ,0 ,-,-,0,-,Closed ,-,-
+22192,PSYC 376L,01 ,Clinical Communication Lab,PSYC 376L Clinical Communication Lab,0,X,CLAS ,MWF,10:00-10:50  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Shaikh, A  ",-,18 ,18 ,0 ,-,-,-,-,Closed ,-,-
+22418,PSYC 382,1 ,Health Psychology,PSYC 382 Health Psychology,3,L,CLAS ,MW,12:00-13:20  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,26 ,26 ,0 ,-,-,0,-,Closed ,-,-
+20278,PSYC 396,03 ,Research Practicum,PSYC 396 Research Practicum,0-3,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Shaikh, A  ",-,5 ,2 ,3 ,-,-,0,-,Open ,-,IN 
+21503,PSYC 396,07 ,Research Practicum,PSYC 396 Research Practicum,0-3,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,5 ,1 ,4 ,-,-,0,-,Open ,-,IN 
+21930,PSYC 396,1 ,Research Practicum,PSYC 396 Research Practicum,0-3,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Hill, C  ",-,5 ,1 ,4 ,-,-,0,-,Open ,-,IN 
+22263,PSYC 490,01 ,Selected Topics in PSYC,PSYC 490 Selected Topics in PSYC,3,L,CLAS ,MWF,14:30-15:20  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,18 ,17 ,1 ,-,-,-,-,Open ,-,-
+20254,PSYC 499,01 ,Senior Presentation in Psychology,PSYC 499 Senior Presentation in Psychology,1,L,CLAS ,W,15:30-16:20  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,18 ,17 ,1 ,-,-,0,-,Open ,COM4,-
+22193,REL 101,01 ,Religious Diversity in America,REL 101 Religious Diversity in America,3,L,CLAS ,MW,12:00-13:20  ,SLC 508 ,Full Term,01/11/2023-04/24/2023 ,"Hashmi, I  ",-,25 ,18 ,7 ,-,-,0,-,Open ,CUL4,-
+20941,REL 202,01 ,Religions of Asia,REL 202 Religions of Asia,3,L,CLAS ,MWF,10:00-10:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, J  ",-,25 ,25 ,0 ,-,-,0,-,Closed ,CUL2,-
+22247,REL 220,01 ,Religion and Globalization,REL 220 Religion and Globalization,3,L,CLAS ,TR,11:00-12:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, J  ",-,35 ,3 ,32 ,35 ,33 ,0,-,Open ,CUL6,-
+22194,REL 235,01 ,Middle East: Muhammad to Mongols,REL 235 Middle East: Muhammad to Mongols,3,L,CLAS ,TR,11:00-12:20  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Hashmi, I  ",-,25 ,10 ,15 ,25 ,22 ,-,-,Open ,CUL1,-
+22419,REL 257,1 ,Black and Womanist Theology,REL 257 Black and Womanist Theology,3,L,CLAS ,TR,13:30-14:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, R  ",-,20 ,1 ,19 ,20 ,6 ,0,-,Open ,CUL4,-
+22420,REL 290,1 ,Asia and the Environment,REL 290 Asia and the Environment,3,L,CLAS ,MW,15:00-16:20  ,PL 203 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, J  ",-,25 ,4 ,21 ,25 ,8 ,0,-,Open ,-,-
+22421,REL 341,1 ,New Religious Movements in Southern California,REL 341 New Religious Movements in Southern California,3,L,CLAS ,MW,15:00-16:20  ,HV 205 ,Full Term,01/11/2023-04/24/2023 ,"Hashmi, I  ",-,20 ,1 ,19 ,-,-,0,-,Open ,CUL4,-
+22422,REL 350,1 ,Latin American Liberation Theologies,REL 350 Latin American Liberation Theologies,3,L,CLAS ,MW,13:30-14:50  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Carbine, R  ",-,20 ,0 ,20 ,20 ,11 ,0,-,Open ,CUL3,-
+20313,SOC 214,01 ,Statistics,SOC 214 Statistics,3,L,CLAS ,MWF,11:00-11:50  ,SLC 200 ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,25 ,4 ,21 ,25 ,25 ,0,-,XL-Closed ,COM1,-
+20314,SOC 214L,01 ,Statistics - SPSS,SOC 214L Statistics - SPSS,1,L,CLAS ,F,12:00-12:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Hash, J  ",-,25 ,4 ,21 ,25 ,26 ,-,-,XL-Closed ,-,-
+22246,SOC 243,01 ,Popular Culture,SOC 243 Popular Culture,3,L,CLAS ,TR,11:00-12:20  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Overmyer-Velazquez, R  ",-,35 ,13 ,22 ,35 ,33 ,0,-,Open ,CUL4,-
+22427,SOC 244,1 ,Social Class and Inequality,SOC 244 Social Class and Inequality,3,L,CLAS ,MW,15:00-16:20  ,MB 202 ,Full Term,01/11/2023-04/24/2023 ,"Rodriguez, B  ",-,25 ,6 ,19 ,-,-,0,-,Open ,CUL4,-
+22428,SOC 244,2 ,Social Class and Inequality,SOC 244 Social Class and Inequality,3,L,CLAS ,TR,15:00-16:20  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Rodriguez, B  ",-,25 ,11 ,14 ,-,-,0,-,Open ,CUL4,-
+22250,SOC 246,01 ,Sociology of Health and Medicine,SOC 246 Sociology of Health and Medicine,3,L,CLAS ,MWF,11:00-11:50  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,25 ,23 ,2 ,-,-,0,-,Open ,-,-
+22302,SOC 290,01 ,Topics in Sociology,SOC 290 Topics in Sociology,3,L,CLAS ,TR,13:30-14:50  ,SLC 509 ,Full Term,01/11/2023-04/24/2023 ,"Harris, D  ",-,0 ,0 ,0 ,-,-,-,-,Closed ,-,-
+22429,SOC 290,1 ,Housing & Homelessness in LA,SOC 290 Housing & Homelessness in LA,4,L,CLAS ,TR,13:30-14:50  ,DH 104 ,Full Term,01/11/2023-04/24/2023 ,"Rodriguez, B  ",-,25 ,25 ,0 ,-,-,-,-,Closed ,-,-
+22430,SOC 300,1 ,"Intersections: Race, Class, Gender","SOC 300 Intersections: Race, Class, Gender",3,L,CLAS ,MW,15:00-16:20  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,20 ,13 ,7 ,20 ,19 ,-,-,Open ,COM2,-
+20214,SOC 310,01 ,Approaches to Social Research,SOC 310 Approaches to Social Research,4,L,CLAS ,MWF,09:00-09:50  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,20 ,5 ,15 ,-,-,0,-,Open ,SLC,-
+20219,SOC 310L,01 ,Approaches to Social Research Lab,SOC 310L Approaches to Social Research Lab,0,X,CLAS ,MWF,10:00-10:50  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,20 ,5 ,15 ,-,-,-,-,Open ,-,-
+22431,SOC 360,1 ,Indigenous Peoples Social Movements,SOC 360 Indigenous Peoples Social Movements,3,L,CLAS ,MW,12:00-13:20  ,SLC 205 ,Full Term,01/11/2023-04/24/2023 ,"Overmyer-Velazquez, R  ",-,25 ,9 ,16 ,25 ,23 ,0,-,Open ,CUL3,-
+20962,SOC 408,02 ,Senior Seminar B,SOC 408 Senior Seminar B,3,L,CLAS ,TR,09:30-10:50  ,PL 202 ,Full Term,01/11/2023-04/24/2023 ,"Overmyer-Velazquez, R  ",-,10 ,7 ,3 ,11 ,11 ,0,-,XL-Closed ,COM4,IN 
+21612,SOC 412,01 ,Preceptorship,SOC 412 Preceptorship,0-3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Rodriguez, B  ",-,10 ,1 ,9 ,-,-,0,-,Open ,-,-
+22264,SOC 412,02 ,Preceptorship,SOC 412 Preceptorship,0-3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Overmyer-Velazquez, R  ",-,10 ,0 ,10 ,-,-,-,-,Open ,-,-
+22265,SOC 412,03 ,Preceptorship,SOC 412 Preceptorship,0-3,L,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Collins-Dogrul, J  ",-,10 ,1 ,9 ,-,-,-,-,Open ,-,-
+22252,SOWK 240,01 ,Introduction to Social Work,SOWK 240 Introduction to Social Work,3,L,CLAS ,MWF,10:00-10:50  ,MB 204 ,Full Term,01/11/2023-04/24/2023 ,"Hong, G  ",-,25 ,19 ,6 ,-,-,0,-,Open ,-,-
+20565,SOWK 310,02 ,Approaches to Social Research,SOWK 310 Approaches to Social Research,3,L,CLAS ,MWF,15:30-16:20  ,SLC 508 ,Full Term,01/11/2023-04/24/2023 ,"Hong, G  ",-,25 ,13 ,12 ,-,-,0,-,Open ,SLC,IN 
+20566,SOWK 310L,02 ,Approaches to Social Research Lab,SOWK 310L Approaches to Social Research Lab,1,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Vidriales, I  ",-,25 ,13 ,12 ,-,-,-,-,Open ,-,IN 
+22200,SOWK 312,01 ,Field Orientation,SOWK 312 Field Orientation,2,P,CLAS ,M,10:00-11:20  ,HV 108 ,Full Term,01/11/2023-04/24/2023 ,"Lawson, S  ",-,25 ,3 ,22 ,-,-,0,-,Open ,-,-
+22253,SOWK 325,01 ,"Substance Abuse, Trauma and Prevention","SOWK 325 Substance Abuse, Trauma and Prevention",3,L,CLAS ,MWF,13:30-14:20  ,HV 104 ,Full Term,01/11/2023-04/24/2023 ,"Hong, G  ",-,25 ,14 ,11 ,-,-,0,-,Open ,-,-
+21596,SOWK 343,01 ,Social Work Practice II: Working with Groups,SOWK 343 Social Work Practice II: Working with Groups,3,L,CLAS ,MWF,11:00-11:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Hong, G  ",-,17 ,5 ,12 ,-,-,0,-,Open ,-,-
+20950,SOWK 364,20 ,Social Welfare Policy & Services,SOWK 364 Social Welfare Policy & Services,3,L,CLAS ,MWF,13:30-14:20  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Lawson, S  ",300,25 ,9 ,16 ,-,-,0,-,Open ,-,IN 
+20499,SOWK 414,01 ,Social Work Practicum & Seminar III,SOWK 414 Social Work Practicum & Seminar III,4,L,CLAS ,F,08:00-09:20  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Lawson, S  ",-,15 ,14 ,1 ,-,-,0,-,Open ,SLC,IN 
+20500,SOWK 414L,01 ,Social Work Practicum & Seminar III Lab,SOWK 414L Social Work Practicum & Seminar III Lab,0,X,CLAS ,TR,09:30-10:20  ,HV 003 ,Full Term,01/11/2023-04/24/2023 ,"Lawson, S  ",-,15 ,14 ,1 ,-,-,-,-,Open ,-,IN 
+21063,SPAN 120,01 ,Elementary Spanish I,SPAN 120 Elementary Spanish I,4,L,CLAS ,MTWRF,11:00-11:50  ,HV 202 ,Full Term,01/11/2023-04/24/2023 ,"Garcia-Rios, F  ",13,25 ,16 ,9 ,-,-,0,-,Open ,CUL7,-
+20185,SPAN 121,01 ,Elementary Spanish II,SPAN 121 Elementary Spanish II,4,L,CLAS ,MTWRF,11:00-11:50  ,HV 003 ,Full Term,01/11/2023-04/24/2023 ,"O'Connor-Gomez, D  ",13,25 ,11 ,14 ,-,-,0,-,Open ,CUL7,-
+20186,SPAN 220,01 ,Intermediate Spanish I,SPAN 220 Intermediate Spanish I,3,L,CLAS ,MWF,10:00-10:50  ,HV 202 ,Full Term,01/11/2023-04/24/2023 ,"Garcia-Rios, F  ",13,25 ,13 ,12 ,-,-,0,-,Open ,CUL6,-
+22432,SPAN 221,1 ,Intermediate Spanish II,SPAN 221 Intermediate Spanish II,3,L,CLAS ,MWF,10:00-10:50  ,HV 113 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",13,25 ,17 ,8 ,25 ,17 ,0,-,Open ,CUL6,-
+20188,SPAN 225,01 ,Latino Literature & Cultural Production,SPAN 225 Latino Literature & Cultural Production,3,L,CLAS ,MW,12:00-13:20  ,SLC 510 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",13,25 ,8 ,17 ,25 ,19 ,0,-,Open ,CUL6,-
+22469,SPAN 283,1 ,Latin American Cinema,SPAN 283 Latin American Cinema,3,L,CLAS ,TR,15:00-16:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Herrera, L  ",13,10 ,9 ,1 ,30 ,24 ,0,-,Open ,CUL3,-
+21753,SPAN 322,01 ,Advan.Writng for Herit.Student,SPAN 322 Advan.Writng for Herit.Student,3,L,CLAS ,TR,11:00-12:20  ,SLC 104 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",13,25 ,6 ,19 ,-,-,0,-,Open ,-,-
+20189,SPAN 325,01 ,Conversation on Hispanic Culture,SPAN 325 Conversation on Hispanic Culture,3,L,CLAS ,TR,09:30-10:50  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Herrera, L  ",13,25 ,11 ,14 ,-,-,0,-,Open ,CUL6,-
+20191,SPAN 356,01 ,Introduction to Latin American/Peninsular Literature II,SPAN 356 Introduction to Latin American/Peninsular Literature II,3,L,CLAS ,TR,13:30-14:50  ,ONLINE  ,Full Term,01/11/2023-04/25/2023 ,"Herrera, L  ",13,25 ,6 ,19 ,-,-,0,-,Open ,CUL3,-
+22433,SPAN 460,1 ,Spanish Voices: The Twentieth Century,SPAN 460 Spanish Voices: The Twentieth Century,3,L,CLAS ,MW,12:00-13:20  ,SLC 201 ,Full Term,01/11/2023-04/24/2023 ,"O'Connor-Gomez, D  ",13,25 ,9 ,16 ,-,-,0,-,Open ,CUL5,-
+22470,SPAN 483,1 ,Latin American Cinema,SPAN 483 Latin American Cinema,3,L,CLAS ,TR,15:00-16:20  ,ONLINE  ,Full Term,01/11/2023-04/24/2023 ,"Herrera, L  ",13,10 ,5 ,5 ,30 ,24 ,0,-,Open ,CUL3,-
+22291,SPAN 525,01 ,Chicano/Latino Cultures: An Interdisciplinary Perspective,SPAN 525 Chicano/Latino Cultures: An Interdisciplinary Perspective,3,L,CLAS ,R,17:00-19:45  ,HV 106 ,Full Term,01/11/2023-04/24/2023 ,"Flores, J  ",-,0 ,0 ,0 ,10 ,1 ,-,-,Closed ,-,-
+20287,THEA 050,01 ,Production Practicum,THEA 050 Production Practicum,1,P,CLAS ,-,-,-,Full Term,01/11/2023-04/24/2023 ,"Gonzalez, G  ",-,50 ,24 ,26 ,35 ,31 ,0,-,Open ,-,-
+20230,THEA 101,01 ,Essentials of Public Speaking,THEA 101 Essentials of Public Speaking,3,L,CLAS ,TR,09:30-10:50  ,SH 106 ,Full Term,01/11/2023-04/24/2023 ,"Liddicoat, K  ",-,20 ,19 ,1 ,-,-,0,-,Open ,COM3,-
+20231,THEA 101,02 ,Essentials of Public Speaking,THEA 101 Essentials of Public Speaking,3,L,CLAS ,TR,11:00-12:20  ,SH 106 ,Full Term,01/11/2023-04/24/2023 ,"Liddicoat, K  ",-,20 ,20 ,0 ,-,-,0,-,Closed ,COM3,-
+22437,THEA 110,1 ,Introduction to Acting,THEA 110 Introduction to Acting,3,L,CLAS ,TR,13:30-14:50  ,SH 106 ,Full Term,01/11/2023-04/24/2023 ,"Liddicoat, K  ",-,20 ,17 ,3 ,20 ,19 ,0,-,Open ,COM3,-
+22225,THEA 170,01 ,Fundamentals of Cinema,THEA 170 Fundamentals of Cinema,3,L,CLAS ,TR,09:30-10:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"McCarthy, P  ",-,40 ,8 ,32 ,40 ,39 ,0,-,Open ,-,-
+22438,THEA 270,1 ,Film Genre,THEA 270 Film Genre,3,L,CLAS ,TR,11:00-12:20  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"McCarthy, P  ",-,26 ,7 ,19 ,28 ,27 ,0,-,Open ,-,-
+22439,THEA 272,1 ,Play Analysis & Criticism,THEA 272 Play Analysis & Criticism,3,L,CLAS ,MW,12:00-13:20  ,SH 107 ,Full Term,01/11/2023-04/24/2023 ,"Gonzalez, G  ",-,25 ,18 ,7 ,-,-,0,-,Open ,COM2,-
+22206,THEA 340,01 ,Scenic Design,THEA 340 Scenic Design,3,L,CLAS ,TR,11:00-12:20  ,SH 107 ,Full Term,01/11/2023-04/24/2023 ,"Reed, B  ",-,20 ,16 ,4 ,-,-,0,-,Open ,COM3,-
+22208,THEA 348,01 ,Hair and Makeup Design,THEA 348 Hair and Makeup Design,3,L,CLAS ,MW,15:00-16:20  ,SH 107 ,Full Term,01/11/2023-04/24/2023 ,"French, M  ",100,18 ,18 ,0 ,-,-,0,-,Closed ,COM3,-
+22451,THEA 420,1 ,Advanced Video Production,THEA 420 Advanced Video Production,4,L,CLAS ,TR,13:30-14:50  ,HV 100 ,Full Term,01/11/2023-04/24/2023 ,"McCarthy, P  ",100,10 ,3 ,7 ,15 ,13 ,0,-,Open ,-,-
+20239,WSP 101,02 ,"The Individual, Identity & Community","WSP 101 The Individual, Identity & Community",3,L,CLAS ,TR,09:30-10:50  ,WH A ,Full Term,01/11/2023-04/24/2023 ,"Creley, S  ",-,16 ,7 ,9 ,-,-,0,-,Open ,COM2,-
+22014,WSP 201,01 ,Designing Your Education,WSP 201 Designing Your Education,1,P,CLAS ,R,11:00-11:50  ,WH A ,Full Term,01/11/2023-04/24/2023 ,"Creley, S  ",-,16 ,5 ,11 ,-,-,0,-,Open ,-,-
+21991,WSP 301,1 ,Project and Portfolio Design,WSP 301 Project and Portfolio Design,1,L,CLAS ,T,11:00-11:50  ,WH A ,Full Term,01/11/2023-04/24/2023 ,"Kjellberg, P  ",-,16 ,12 ,4 ,-,-,0,-,Open ,-,-
+20280,WSP 399,01 ,Practicum,WSP 399 Practicum,1,P,CLAS ,W,14:30-15:20  ,WH A ,Full Term,01/11/2023-04/24/2023 ,"Creley, S  ",-,16 ,6 ,10 ,-,-,0,-,Open ,SLC,-
+20308,WSP 499,01 ,Senior Symposium,WSP 499 Senior Symposium,1,P,CLAS ,T,15:00-16:20  ,BALL LLC ,Full Term,01/11/2023-04/24/2023 ,"Creley, S  ",-,30 ,31 ,-1 ,-,-,0,-,Closed ,-,-

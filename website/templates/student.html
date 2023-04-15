@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+
+{% block title %}Home-WC DATABASE{% endblock %}
+
+{% block navbar %}
+<nav class="navbar navbar-expand-lg navbar-custom">
+  <div class="navbar-nav">
+    <a class="nav-item nav-link navbar-text" id="home" href="/">Home</a>
+    <a class="nav-item nav-link navbar-text" id="logout" href="/logout">Logout</a>
+  </div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+</nav>
+{% endblock %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <style>
+    .day-cell {
+      padding: 40px;
+    }
+
+    #tt {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    #options_title {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    #options_container {
+      width: 500px;
+      height: 300px;
+      overflow-y: scroll;
+      border: 1px solid black;
+      padding: 10px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body style="background-color: gold">
+  <div style="background-color: purple; padding: 10px; color: gold">
+    <div><strong>ID:</strong> {{ user.id }}</div>
+    <div>{{ user.first_name }}</div>
+    <div>{{ user.email }}</div>
+    <div>{{ user.major_id }}</div>
+  </div>
+  <div class="col-md-9">
+    <h2>Select a Class</h2>
+    <form id="chart-form">
+      <div class="form-group">
+        <label for="class-select">Select a class:</label>
+        <select name="class" id="class-select" class="form-control">
+          {% for option in options %}
+          <option value="{{ option }}">{{ option }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary">Display Chart</button>
+    </form>
+    <canvas id="chart-canvas"></canvas>
+  </div>
+  {% if image_path %}
+  <img src="{{ image_path }}" alt="Pie chart">
+  {% endif %}
+  <h1 id="tt">Class Schedule Board</h1>
+  <div style="width: 1000px; height: 500px; border: 1px solid black; padding: 10px;">
+    <table>
+      <tr>
+        <th></th>
+        {% for day in days %}
+        <th class="day-cell">{{ day }}</th>
+        {% endfor %}
+      </tr>
+      {% for time_slot in time_slots %}
+      <tr>
+        <td>{{ time_slot }}</td>
+        {% for day in days %}
+        <td>{{ schedule_data[day][loop.index0] }}</td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+  <button type="button" class="btn btn-primary nav-item nav-link" id="student"
+    onclick="location.href='/add2023/{{ current_user.id }}';">
+    add or drop classes
+  </button>
+
+</html>
+{% endblock %}
